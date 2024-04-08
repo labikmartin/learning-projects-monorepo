@@ -1,0 +1,63 @@
+{
+  "name": "eshop-express-app",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/eshop-express-app/src",
+  "projectType": "application",
+  "tags": [],
+  "targets": {
+    "build": {
+      "executor": "@nx/esbuild:esbuild",
+      "outputs": ["{options.outputPath}"],
+      "defaultConfiguration": "production",
+      "options": {
+        "platform": "node",
+        "outputPath": "dist/apps/eshop-express-app",
+        "format": ["cjs"],
+        "bundle": false,
+        "main": "apps/eshop-express-app/src/main.ts",
+        "tsConfig": "apps/eshop-express-app/tsconfig.app.json",
+        "assets": ["apps/eshop-express-app/src/assets"],
+        "generatePackageJson": true,
+        "esbuildOptions": {
+          "sourcemap": true,
+          "outExtension": {
+            ".js": ".js"
+          }
+        }
+      },
+      "configurations": {
+        "development": {
+          "generatePackageJson": false
+        },
+        "production": {
+          "generateLockfile": true,
+          "esbuildOptions": {
+            "sourcemap": false,
+            "outExtension": {
+              ".js": ".js"
+            }
+          }
+        }
+      }
+    },
+    "serve": {
+      "executor": "@nx/js:node",
+      "defaultConfiguration": "development",
+      "options": {
+        "buildTarget": "eshop-express-app:build"
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "eshop-express-app:build:development"
+        },
+        "production": {
+          "buildTarget": "eshop-express-app:build:production"
+        }
+      }
+    },
+    "docker-build": {
+      "dependsOn": ["build"],
+      "command": "docker build -f apps/eshop-express-app/Dockerfile . -t eshop-express-app"
+    }
+  }
+}

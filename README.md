@@ -30,6 +30,12 @@ In this project, you can run the following scripts using npm:
 
 - `npm run graph`: Visualizes the dependency graph of the monorepo.
 
+### Apps
+
+#### Eshop Express app
+
+- `npm run eshop-express-app:serve`: Serves Express Eshop API App in development mode.
+
 #### Recipes app
 
 - `npm run recipes-app:start`: Starts the Recipes App.

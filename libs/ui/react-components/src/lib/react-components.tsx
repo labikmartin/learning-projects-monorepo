@@ -1,3 +1,6 @@
+'use client';
+
+import { useEffect } from 'react';
 import styles from './react-components.module.scss';
 
 /* eslint-disable-next-line */

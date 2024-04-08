@@ -5,7 +5,10 @@
 .nx/cache
 
 node_modules/
+dist/
+tmp/
 
 # Next.js
 .next
 out
+

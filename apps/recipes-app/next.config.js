@@ -10,8 +10,14 @@ const nextConfig = {
   nx: {
     // Set this to true if you would like to use SVGR
     // See: https://github.com/gregberge/svgr
-    svgr: false,
+    svgr: true,
   },
+  // rewrites: async () => [
+  //   {
+  //     source: '/api/:path*',
+  //     destination: `${process.env.NEXT_PUBLIC_API_ENDPOINT}/:path*`,
+  //   },
+  // ],
 };
 
 const plugins = [

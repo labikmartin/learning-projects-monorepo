@@ -1,0 +1,15 @@
+{
+  "name": "recipes-app",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/recipes-app",
+  "projectType": "application",
+  "tags": ["recipes", "next", "react"],
+  "// targets": "to see all targets run: nx show project recipes-app --web",
+  "targets": {
+    "dev": {
+      "options": {
+        "port": 3001
+      }
+    }
+  }
+}

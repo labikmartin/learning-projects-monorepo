@@ -1,0 +1,9 @@
+{
+  "name": "recipes-app-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/recipes-app-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["recipes-app"],
+  "// targets": "to see all targets run: nx show project recipes-app-e2e --web",
+  "targets": {}
+}

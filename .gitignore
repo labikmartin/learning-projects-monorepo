@@ -1,0 +1,11 @@
+
+.nx/installation
+.nx/cache
+.nx/installation
+.nx/cache
+
+node_modules/
+
+# Next.js
+.next
+out

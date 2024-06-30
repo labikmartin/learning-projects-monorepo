@@ -2122,6 +2122,798 @@
         "hash": "sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw=="
       }
     },
+    "npm:@chakra-ui/accordion": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/accordion",
+      "data": {
+        "version": "2.3.1",
+        "packageName": "@chakra-ui/accordion",
+        "hash": "sha512-FSXRm8iClFyU+gVaXisOSEw0/4Q+qZbFRiuhIAkVU6Boj0FxAMrlo9a8AV5TuF77rgaHytCdHk0Ng+cyUijrag=="
+      }
+    },
+    "npm:@chakra-ui/alert": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/alert",
+      "data": {
+        "version": "2.2.2",
+        "packageName": "@chakra-ui/alert",
+        "hash": "sha512-jHg4LYMRNOJH830ViLuicjb3F+v6iriE/2G5T+Sd0Hna04nukNJ1MxUmBPE+vI22me2dIflfelu2v9wdB6Pojw=="
+      }
+    },
+    "npm:@chakra-ui/anatomy": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/anatomy",
+      "data": {
+        "version": "2.2.2",
+        "packageName": "@chakra-ui/anatomy",
+        "hash": "sha512-MV6D4VLRIHr4PkW4zMyqfrNS1mPlCTiCXwvYGtDFQYr+xHFfonhAuf9WjsSc0nyp2m0OdkSLnzmVKkZFLo25Tg=="
+      }
+    },
+    "npm:@chakra-ui/avatar": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/avatar",
+      "data": {
+        "version": "2.3.0",
+        "packageName": "@chakra-ui/avatar",
+        "hash": "sha512-8gKSyLfygnaotbJbDMHDiJoF38OHXUYVme4gGxZ1fLnQEdPVEaIWfH+NndIjOM0z8S+YEFnT9KyGMUtvPrBk3g=="
+      }
+    },
+    "npm:@chakra-ui/breadcrumb": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/breadcrumb",
+      "data": {
+        "version": "2.2.0",
+        "packageName": "@chakra-ui/breadcrumb",
+        "hash": "sha512-4cWCG24flYBxjruRi4RJREWTGF74L/KzI2CognAW/d/zWR0CjiScuJhf37Am3LFbCySP6WSoyBOtTIoTA4yLEA=="
+      }
+    },
+    "npm:@chakra-ui/breakpoint-utils": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/breakpoint-utils",
+      "data": {
+        "version": "2.0.8",
+        "packageName": "@chakra-ui/breakpoint-utils",
+        "hash": "sha512-Pq32MlEX9fwb5j5xx8s18zJMARNHlQZH2VH1RZgfgRDpp7DcEgtRW5AInfN5CfqdHLO1dGxA7I3MqEuL5JnIsA=="
+      }
+    },
+    "npm:@chakra-ui/button": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/button",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/button",
+        "hash": "sha512-95CplwlRKmmUXkdEp/21VkEWgnwcx2TOBG6NfYlsuLBDHSLlo5FKIiE2oSi4zXc4TLcopGcWPNcm/NDaSC5pvA=="
+      }
+    },
+    "npm:@chakra-ui/card": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/card",
+      "data": {
+        "version": "2.2.0",
+        "packageName": "@chakra-ui/card",
+        "hash": "sha512-xUB/k5MURj4CtPAhdSoXZidUbm8j3hci9vnc+eZJVDqhDOShNlD6QeniQNRPRys4lWAQLCbFcrwL29C8naDi6g=="
+      }
+    },
+    "npm:@chakra-ui/checkbox": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/checkbox",
+      "data": {
+        "version": "2.3.2",
+        "packageName": "@chakra-ui/checkbox",
+        "hash": "sha512-85g38JIXMEv6M+AcyIGLh7igNtfpAN6KGQFYxY9tBj0eWvWk4NKQxvqqyVta0bSAyIl1rixNIIezNpNWk2iO4g=="
+      }
+    },
+    "npm:@chakra-ui/clickable": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/clickable",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/clickable",
+        "hash": "sha512-flRA/ClPUGPYabu+/GLREZVZr9j2uyyazCAUHAdrTUEdDYCr31SVGhgh7dgKdtq23bOvAQJpIJjw/0Bs0WvbXw=="
+      }
+    },
+    "npm:@chakra-ui/close-button": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/close-button",
+      "data": {
+        "version": "2.1.1",
+        "packageName": "@chakra-ui/close-button",
+        "hash": "sha512-gnpENKOanKexswSVpVz7ojZEALl2x5qjLYNqSQGbxz+aP9sOXPfUS56ebyBrre7T7exuWGiFeRwnM0oVeGPaiw=="
+      }
+    },
+    "npm:@chakra-ui/color-mode": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/color-mode",
+      "data": {
+        "version": "2.2.0",
+        "packageName": "@chakra-ui/color-mode",
+        "hash": "sha512-niTEA8PALtMWRI9wJ4LL0CSBDo8NBfLNp4GD6/0hstcm3IlbBHTVKxN6HwSaoNYfphDQLxCjT4yG+0BJA5tFpg=="
+      }
+    },
+    "npm:@chakra-ui/control-box": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/control-box",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/control-box",
+        "hash": "sha512-gVrRDyXFdMd8E7rulL0SKeoljkLQiPITFnsyMO8EFHNZ+AHt5wK4LIguYVEq88APqAGZGfHFWXr79RYrNiE3Mg=="
+      }
+    },
+    "npm:@chakra-ui/counter": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/counter",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/counter",
+        "hash": "sha512-s6hZAEcWT5zzjNz2JIWUBzRubo9la/oof1W7EKZVVfPYHERnl5e16FmBC79Yfq8p09LQ+aqFKm/etYoJMMgghw=="
+      }
+    },
+    "npm:@chakra-ui/css-reset": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/css-reset",
+      "data": {
+        "version": "2.3.0",
+        "packageName": "@chakra-ui/css-reset",
+        "hash": "sha512-cQwwBy5O0jzvl0K7PLTLgp8ijqLPKyuEMiDXwYzl95seD3AoeuoCLyzZcJtVqaUZ573PiBdAbY/IlZcwDOItWg=="
+      }
+    },
+    "npm:@chakra-ui/descendant": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/descendant",
+      "data": {
+        "version": "3.1.0",
+        "packageName": "@chakra-ui/descendant",
+        "hash": "sha512-VxCIAir08g5w27klLyi7PVo8BxhW4tgU/lxQyujkmi4zx7hT9ZdrcQLAted/dAa+aSIZ14S1oV0Q9lGjsAdxUQ=="
+      }
+    },
+    "npm:@chakra-ui/dom-utils": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/dom-utils",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/dom-utils",
+        "hash": "sha512-ZmF2qRa1QZ0CMLU8M1zCfmw29DmPNtfjR9iTo74U5FPr3i1aoAh7fbJ4qAlZ197Xw9eAW28tvzQuoVWeL5C7fQ=="
+      }
+    },
+    "npm:@chakra-ui/editable": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/editable",
+      "data": {
+        "version": "3.1.0",
+        "packageName": "@chakra-ui/editable",
+        "hash": "sha512-j2JLrUL9wgg4YA6jLlbU88370eCRyor7DZQD9lzpY95tSOXpTljeg3uF9eOmDnCs6fxp3zDWIfkgMm/ExhcGTg=="
+      }
+    },
+    "npm:@chakra-ui/event-utils": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/event-utils",
+      "data": {
+        "version": "2.0.8",
+        "packageName": "@chakra-ui/event-utils",
+        "hash": "sha512-IGM/yGUHS+8TOQrZGpAKOJl/xGBrmRYJrmbHfUE7zrG3PpQyXvbLDP1M+RggkCFVgHlJi2wpYIf0QtQlU0XZfw=="
+      }
+    },
+    "npm:@chakra-ui/focus-lock": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/focus-lock",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/focus-lock",
+        "hash": "sha512-EmGx4PhWGjm4dpjRqM4Aa+rCWBxP+Rq8Uc/nAVnD4YVqkEhBkrPTpui2lnjsuxqNaZ24fIAZ10cF1hlpemte/w=="
+      }
+    },
+    "npm:@chakra-ui/form-control": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/form-control",
+      "data": {
+        "version": "2.2.0",
+        "packageName": "@chakra-ui/form-control",
+        "hash": "sha512-wehLC1t4fafCVJ2RvJQT2jyqsAwX7KymmiGqBu7nQoQz8ApTkGABWpo/QwDh3F/dBLrouHDoOvGmYTqft3Mirw=="
+      }
+    },
+    "npm:@chakra-ui/hooks": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/hooks",
+      "data": {
+        "version": "2.2.1",
+        "packageName": "@chakra-ui/hooks",
+        "hash": "sha512-RQbTnzl6b1tBjbDPf9zGRo9rf/pQMholsOudTxjy4i9GfTfz6kgp5ValGjQm2z7ng6Z31N1cnjZ1AlSzQ//ZfQ=="
+      }
+    },
+    "npm:@chakra-ui/icon": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/icon",
+      "data": {
+        "version": "3.2.0",
+        "packageName": "@chakra-ui/icon",
+        "hash": "sha512-xxjGLvlX2Ys4H0iHrI16t74rG9EBcpFvJ3Y3B7KMQTrnW34Kf7Da/UC8J67Gtx85mTHW020ml85SVPKORWNNKQ=="
+      }
+    },
+    "npm:@chakra-ui/image": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/image",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/image",
+        "hash": "sha512-bskumBYKLiLMySIWDGcz0+D9Th0jPvmX6xnRMs4o92tT3Od/bW26lahmV2a2Op2ItXeCmRMY+XxJH5Gy1i46VA=="
+      }
+    },
+    "npm:@chakra-ui/input": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/input",
+      "data": {
+        "version": "2.1.2",
+        "packageName": "@chakra-ui/input",
+        "hash": "sha512-GiBbb3EqAA8Ph43yGa6Mc+kUPjh4Spmxp1Pkelr8qtudpc3p2PJOOebLpd90mcqw8UePPa+l6YhhPtp6o0irhw=="
+      }
+    },
+    "npm:@chakra-ui/layout": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/layout",
+      "data": {
+        "version": "2.3.1",
+        "packageName": "@chakra-ui/layout",
+        "hash": "sha512-nXuZ6WRbq0WdgnRgLw+QuxWAHuhDtVX8ElWqcTK+cSMFg/52eVP47czYBE5F35YhnoW2XBwfNoNgZ7+e8Z01Rg=="
+      }
+    },
+    "npm:@chakra-ui/lazy-utils": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/lazy-utils",
+      "data": {
+        "version": "2.0.5",
+        "packageName": "@chakra-ui/lazy-utils",
+        "hash": "sha512-UULqw7FBvcckQk2n3iPO56TMJvDsNv0FKZI6PlUNJVaGsPbsYxK/8IQ60vZgaTVPtVcjY6BE+y6zg8u9HOqpyg=="
+      }
+    },
+    "npm:@chakra-ui/live-region": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/live-region",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/live-region",
+        "hash": "sha512-ZOxFXwtaLIsXjqnszYYrVuswBhnIHHP+XIgK1vC6DePKtyK590Wg+0J0slDwThUAd4MSSIUa/nNX84x1GMphWw=="
+      }
+    },
+    "npm:@chakra-ui/media-query": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/media-query",
+      "data": {
+        "version": "3.3.0",
+        "packageName": "@chakra-ui/media-query",
+        "hash": "sha512-IsTGgFLoICVoPRp9ykOgqmdMotJG0CnPsKvGQeSFOB/dZfIujdVb14TYxDU4+MURXry1MhJ7LzZhv+Ml7cr8/g=="
+      }
+    },
+    "npm:@chakra-ui/menu": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/menu",
+      "data": {
+        "version": "2.2.1",
+        "packageName": "@chakra-ui/menu",
+        "hash": "sha512-lJS7XEObzJxsOwWQh7yfG4H8FzFPRP5hVPN/CL+JzytEINCSBvsCDHrYPQGp7jzpCi8vnTqQQGQe0f8dwnXd2g=="
+      }
+    },
+    "npm:@chakra-ui/modal": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/modal",
+      "data": {
+        "version": "2.3.1",
+        "packageName": "@chakra-ui/modal",
+        "hash": "sha512-TQv1ZaiJMZN+rR9DK0snx/OPwmtaGH1HbZtlYt4W4s6CzyK541fxLRTjIXfEzIGpvNW+b6VFuFjbcR78p4DEoQ=="
+      }
+    },
+    "npm:@chakra-ui/next-js": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/next-js",
+      "data": {
+        "version": "2.2.0",
+        "packageName": "@chakra-ui/next-js",
+        "hash": "sha512-brCz0UEOlImX4Np2jDIaljZJkW6kiDSuXG5erxvYjZlklLhmti1zj0o1sSjt5yff1xndfgHoOJb+BYG5wx+vDg=="
+      }
+    },
+    "npm:@chakra-ui/number-input": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/number-input",
+      "data": {
+        "version": "2.1.2",
+        "packageName": "@chakra-ui/number-input",
+        "hash": "sha512-pfOdX02sqUN0qC2ysuvgVDiws7xZ20XDIlcNhva55Jgm095xjm8eVdIBfNm3SFbSUNxyXvLTW/YQanX74tKmuA=="
+      }
+    },
+    "npm:@chakra-ui/number-utils": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/number-utils",
+      "data": {
+        "version": "2.0.7",
+        "packageName": "@chakra-ui/number-utils",
+        "hash": "sha512-yOGxBjXNvLTBvQyhMDqGU0Oj26s91mbAlqKHiuw737AXHt0aPllOthVUqQMeaYLwLCjGMg0jtI7JReRzyi94Dg=="
+      }
+    },
+    "npm:@chakra-ui/object-utils": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/object-utils",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/object-utils",
+        "hash": "sha512-tgIZOgLHaoti5PYGPTwK3t/cqtcycW0owaiOXoZOcpwwX/vlVb+H1jFsQyWiiwQVPt9RkoSLtxzXamx+aHH+bQ=="
+      }
+    },
+    "npm:@chakra-ui/pin-input": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/pin-input",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/pin-input",
+        "hash": "sha512-x4vBqLStDxJFMt+jdAHHS8jbh294O53CPQJoL4g228P513rHylV/uPscYUHrVJXRxsHfRztQO9k45jjTYaPRMw=="
+      }
+    },
+    "npm:@chakra-ui/popover": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/popover",
+      "data": {
+        "version": "2.2.1",
+        "packageName": "@chakra-ui/popover",
+        "hash": "sha512-K+2ai2dD0ljvJnlrzesCDT9mNzLifE3noGKZ3QwLqd/K34Ym1W/0aL1ERSynrcG78NKoXS54SdEzkhCZ4Gn/Zg=="
+      }
+    },
+    "npm:@chakra-ui/popper": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/popper",
+      "data": {
+        "version": "3.1.0",
+        "packageName": "@chakra-ui/popper",
+        "hash": "sha512-ciDdpdYbeFG7og6/6J8lkTFxsSvwTdMLFkpVylAF6VNC22jssiWfquj2eyD4rJnzkRFPvIWJq8hvbfhsm+AjSg=="
+      }
+    },
+    "npm:@chakra-ui/portal": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/portal",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/portal",
+        "hash": "sha512-9q9KWf6SArEcIq1gGofNcFPSWEyl+MfJjEUg/un1SMlQjaROOh3zYr+6JAwvcORiX7tyHosnmWC3d3wI2aPSQg=="
+      }
+    },
+    "npm:@chakra-ui/progress": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/progress",
+      "data": {
+        "version": "2.2.0",
+        "packageName": "@chakra-ui/progress",
+        "hash": "sha512-qUXuKbuhN60EzDD9mHR7B67D7p/ZqNS2Aze4Pbl1qGGZfulPW0PY8Rof32qDtttDQBkzQIzFGE8d9QpAemToIQ=="
+      }
+    },
+    "npm:@chakra-ui/provider": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/provider",
+      "data": {
+        "version": "2.4.2",
+        "packageName": "@chakra-ui/provider",
+        "hash": "sha512-w0Tef5ZCJK1mlJorcSjItCSbyvVuqpvyWdxZiVQmE6fvSJR83wZof42ux0+sfWD+I7rHSfj+f9nzhNaEWClysw=="
+      }
+    },
+    "npm:@chakra-ui/radio": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/radio",
+      "data": {
+        "version": "2.1.2",
+        "packageName": "@chakra-ui/radio",
+        "hash": "sha512-n10M46wJrMGbonaghvSRnZ9ToTv/q76Szz284gv4QUWvyljQACcGrXIONUnQ3BIwbOfkRqSk7Xl/JgZtVfll+w=="
+      }
+    },
+    "npm:@chakra-ui/react": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react",
+      "data": {
+        "version": "2.8.2",
+        "packageName": "@chakra-ui/react",
+        "hash": "sha512-Hn0moyxxyCDKuR9ywYpqgX8dvjqwu9ArwpIb9wHNYjnODETjLwazgNIliCVBRcJvysGRiV51U2/JtJVrpeCjUQ=="
+      }
+    },
+    "npm:@chakra-ui/react-children-utils": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-children-utils",
+      "data": {
+        "version": "2.0.6",
+        "packageName": "@chakra-ui/react-children-utils",
+        "hash": "sha512-QVR2RC7QsOsbWwEnq9YduhpqSFnZGvjjGREV8ygKi8ADhXh93C8azLECCUVgRJF2Wc+So1fgxmjLcbZfY2VmBA=="
+      }
+    },
+    "npm:@chakra-ui/react-context": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-context",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/react-context",
+        "hash": "sha512-iahyStvzQ4AOwKwdPReLGfDesGG+vWJfEsn0X/NoGph/SkN+HXtv2sCfYFFR9k7bb+Kvc6YfpLlSuLvKMHi2+w=="
+      }
+    },
+    "npm:@chakra-ui/react-env": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-env",
+      "data": {
+        "version": "3.1.0",
+        "packageName": "@chakra-ui/react-env",
+        "hash": "sha512-Vr96GV2LNBth3+IKzr/rq1IcnkXv+MLmwjQH6C8BRtn3sNskgDFD5vLkVXcEhagzZMCh8FR3V/bzZPojBOyNhw=="
+      }
+    },
+    "npm:@chakra-ui/react-types": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-types",
+      "data": {
+        "version": "2.0.7",
+        "packageName": "@chakra-ui/react-types",
+        "hash": "sha512-12zv2qIZ8EHwiytggtGvo4iLT0APris7T0qaAWqzpUGS0cdUtR8W+V1BJ5Ocq+7tA6dzQ/7+w5hmXih61TuhWQ=="
+      }
+    },
+    "npm:@chakra-ui/react-use-animation-state": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-use-animation-state",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/react-use-animation-state",
+        "hash": "sha512-CFZkQU3gmDBwhqy0vC1ryf90BVHxVN8cTLpSyCpdmExUEtSEInSCGMydj2fvn7QXsz/za8JNdO2xxgJwxpLMtg=="
+      }
+    },
+    "npm:@chakra-ui/react-use-callback-ref": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-use-callback-ref",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/react-use-callback-ref",
+        "hash": "sha512-efnJrBtGDa4YaxDzDE90EnKD3Vkh5a1t3w7PhnRQmsphLy3g2UieasoKTlT2Hn118TwDjIv5ZjHJW6HbzXA9wQ=="
+      }
+    },
+    "npm:@chakra-ui/react-use-controllable-state": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-use-controllable-state",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/react-use-controllable-state",
+        "hash": "sha512-QR/8fKNokxZUs4PfxjXuwl0fj/d71WPrmLJvEpCTkHjnzu7LnYvzoe2wB867IdooQJL0G1zBxl0Dq+6W1P3jpg=="
+      }
+    },
+    "npm:@chakra-ui/react-use-disclosure": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-use-disclosure",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/react-use-disclosure",
+        "hash": "sha512-Ax4pmxA9LBGMyEZJhhUZobg9C0t3qFE4jVF1tGBsrLDcdBeLR9fwOogIPY9Hf0/wqSlAryAimICbr5hkpa5GSw=="
+      }
+    },
+    "npm:@chakra-ui/react-use-event-listener": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-use-event-listener",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/react-use-event-listener",
+        "hash": "sha512-U5greryDLS8ISP69DKDsYcsXRtAdnTQT+jjIlRYZ49K/XhUR/AqVZCK5BkR1spTDmO9H8SPhgeNKI70ODuDU/Q=="
+      }
+    },
+    "npm:@chakra-ui/react-use-focus-effect": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-use-focus-effect",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/react-use-focus-effect",
+        "hash": "sha512-xzVboNy7J64xveLcxTIJ3jv+lUJKDwRM7Szwn9tNzUIPD94O3qwjV7DDCUzN2490nSYDF4OBMt/wuDBtaR3kUQ=="
+      }
+    },
+    "npm:@chakra-ui/react-use-focus-on-pointer-down": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-use-focus-on-pointer-down",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/react-use-focus-on-pointer-down",
+        "hash": "sha512-2jzrUZ+aiCG/cfanrolsnSMDykCAbv9EK/4iUyZno6BYb3vziucmvgKuoXbMPAzWNtwUwtuMhkby8rc61Ue+Lg=="
+      }
+    },
+    "npm:@chakra-ui/react-use-interval": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-use-interval",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/react-use-interval",
+        "hash": "sha512-8iWj+I/+A0J08pgEXP1J1flcvhLBHkk0ln7ZvGIyXiEyM6XagOTJpwNhiu+Bmk59t3HoV/VyvyJTa+44sEApuw=="
+      }
+    },
+    "npm:@chakra-ui/react-use-latest-ref": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-use-latest-ref",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/react-use-latest-ref",
+        "hash": "sha512-m0kxuIYqoYB0va9Z2aW4xP/5b7BzlDeWwyXCH6QpT2PpW3/281L3hLCm1G0eOUcdVlayqrQqOeD6Mglq+5/xoQ=="
+      }
+    },
+    "npm:@chakra-ui/react-use-merge-refs": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-use-merge-refs",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/react-use-merge-refs",
+        "hash": "sha512-lERa6AWF1cjEtWSGjxWTaSMvneccnAVH4V4ozh8SYiN9fSPZLlSG3kNxfNzdFvMEhM7dnP60vynF7WjGdTgQbQ=="
+      }
+    },
+    "npm:@chakra-ui/react-use-outside-click": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-use-outside-click",
+      "data": {
+        "version": "2.2.0",
+        "packageName": "@chakra-ui/react-use-outside-click",
+        "hash": "sha512-PNX+s/JEaMneijbgAM4iFL+f3m1ga9+6QK0E5Yh4s8KZJQ/bLwZzdhMz8J/+mL+XEXQ5J0N8ivZN28B82N1kNw=="
+      }
+    },
+    "npm:@chakra-ui/react-use-pan-event": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-use-pan-event",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/react-use-pan-event",
+        "hash": "sha512-xmL2qOHiXqfcj0q7ZK5s9UjTh4Gz0/gL9jcWPA6GVf+A0Od5imEDa/Vz+533yQKWiNSm1QGrIj0eJAokc7O4fg=="
+      }
+    },
+    "npm:@chakra-ui/react-use-previous": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-use-previous",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/react-use-previous",
+        "hash": "sha512-pjxGwue1hX8AFcmjZ2XfrQtIJgqbTF3Qs1Dy3d1krC77dEsiCUbQ9GzOBfDc8pfd60DrB5N2tg5JyHbypqh0Sg=="
+      }
+    },
+    "npm:@chakra-ui/react-use-safe-layout-effect": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-use-safe-layout-effect",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/react-use-safe-layout-effect",
+        "hash": "sha512-Knbrrx/bcPwVS1TorFdzrK/zWA8yuU/eaXDkNj24IrKoRlQrSBFarcgAEzlCHtzuhufP3OULPkELTzz91b0tCw=="
+      }
+    },
+    "npm:@chakra-ui/react-use-size": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-use-size",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/react-use-size",
+        "hash": "sha512-tbLqrQhbnqOjzTaMlYytp7wY8BW1JpL78iG7Ru1DlV4EWGiAmXFGvtnEt9HftU0NJ0aJyjgymkxfVGI55/1Z4A=="
+      }
+    },
+    "npm:@chakra-ui/react-use-timeout": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-use-timeout",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/react-use-timeout",
+        "hash": "sha512-cFN0sobKMM9hXUhyCofx3/Mjlzah6ADaEl/AXl5Y+GawB5rgedgAcu2ErAgarEkwvsKdP6c68CKjQ9dmTQlJxQ=="
+      }
+    },
+    "npm:@chakra-ui/react-use-update-effect": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-use-update-effect",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/react-use-update-effect",
+        "hash": "sha512-ND4Q23tETaR2Qd3zwCKYOOS1dfssojPLJMLvUtUbW5M9uW1ejYWgGUobeAiOVfSplownG8QYMmHTP86p/v0lbA=="
+      }
+    },
+    "npm:@chakra-ui/react-utils": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/react-utils",
+      "data": {
+        "version": "2.0.12",
+        "packageName": "@chakra-ui/react-utils",
+        "hash": "sha512-GbSfVb283+YA3kA8w8xWmzbjNWk14uhNpntnipHCftBibl0lxtQ9YqMFQLwuFOO0U2gYVocszqqDWX+XNKq9hw=="
+      }
+    },
+    "npm:@chakra-ui/select": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/select",
+      "data": {
+        "version": "2.1.2",
+        "packageName": "@chakra-ui/select",
+        "hash": "sha512-ZwCb7LqKCVLJhru3DXvKXpZ7Pbu1TDZ7N0PdQ0Zj1oyVLJyrpef1u9HR5u0amOpqcH++Ugt0f5JSmirjNlctjA=="
+      }
+    },
+    "npm:@chakra-ui/shared-utils": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/shared-utils",
+      "data": {
+        "version": "2.0.5",
+        "packageName": "@chakra-ui/shared-utils",
+        "hash": "sha512-4/Wur0FqDov7Y0nCXl7HbHzCg4aq86h+SXdoUeuCMD3dSj7dpsVnStLYhng1vxvlbUnLpdF4oz5Myt3i/a7N3Q=="
+      }
+    },
+    "npm:@chakra-ui/skeleton": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/skeleton",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/skeleton",
+        "hash": "sha512-JNRuMPpdZGd6zFVKjVQ0iusu3tXAdI29n4ZENYwAJEMf/fN0l12sVeirOxkJ7oEL0yOx2AgEYFSKdbcAgfUsAQ=="
+      }
+    },
+    "npm:@chakra-ui/skip-nav": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/skip-nav",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/skip-nav",
+        "hash": "sha512-Hk+FG+vadBSH0/7hwp9LJnLjkO0RPGnx7gBJWI4/SpoJf3e4tZlWYtwGj0toYY4aGKl93jVghuwGbDBEMoHDug=="
+      }
+    },
+    "npm:@chakra-ui/slider": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/slider",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/slider",
+        "hash": "sha512-lUOBcLMCnFZiA/s2NONXhELJh6sY5WtbRykPtclGfynqqOo47lwWJx+VP7xaeuhDOPcWSSecWc9Y1BfPOCz9cQ=="
+      }
+    },
+    "npm:@chakra-ui/spinner": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/spinner",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/spinner",
+        "hash": "sha512-hczbnoXt+MMv/d3gE+hjQhmkzLiKuoTo42YhUG7Bs9OSv2lg1fZHW1fGNRFP3wTi6OIbD044U1P9HK+AOgFH3g=="
+      }
+    },
+    "npm:@chakra-ui/stat": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/stat",
+      "data": {
+        "version": "2.1.1",
+        "packageName": "@chakra-ui/stat",
+        "hash": "sha512-LDn0d/LXQNbAn2KaR3F1zivsZCewY4Jsy1qShmfBMKwn6rI8yVlbvu6SiA3OpHS0FhxbsZxQI6HefEoIgtqY6Q=="
+      }
+    },
+    "npm:@chakra-ui/stepper": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/stepper",
+      "data": {
+        "version": "2.3.1",
+        "packageName": "@chakra-ui/stepper",
+        "hash": "sha512-ky77lZbW60zYkSXhYz7kbItUpAQfEdycT0Q4bkHLxfqbuiGMf8OmgZOQkOB9uM4v0zPwy2HXhe0vq4Dd0xa55Q=="
+      }
+    },
+    "npm:@chakra-ui/styled-system": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/styled-system",
+      "data": {
+        "version": "2.9.2",
+        "packageName": "@chakra-ui/styled-system",
+        "hash": "sha512-To/Z92oHpIE+4nk11uVMWqo2GGRS86coeMmjxtpnErmWRdLcp1WVCVRAvn+ZwpLiNR+reWFr2FFqJRsREuZdAg=="
+      }
+    },
+    "npm:@chakra-ui/switch": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/switch",
+      "data": {
+        "version": "2.1.2",
+        "packageName": "@chakra-ui/switch",
+        "hash": "sha512-pgmi/CC+E1v31FcnQhsSGjJnOE2OcND4cKPyTE+0F+bmGm48Q/b5UmKD9Y+CmZsrt/7V3h8KNczowupfuBfIHA=="
+      }
+    },
+    "npm:@chakra-ui/system": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/system",
+      "data": {
+        "version": "2.6.2",
+        "packageName": "@chakra-ui/system",
+        "hash": "sha512-EGtpoEjLrUu4W1fHD+a62XR+hzC5YfsWm+6lO0Kybcga3yYEij9beegO0jZgug27V+Rf7vns95VPVP6mFd/DEQ=="
+      }
+    },
+    "npm:@chakra-ui/table": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/table",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/table",
+        "hash": "sha512-o5OrjoHCh5uCLdiUb0Oc0vq9rIAeHSIRScc2ExTC9Qg/uVZl2ygLrjToCaKfaaKl1oQexIeAcZDKvPG8tVkHyQ=="
+      }
+    },
+    "npm:@chakra-ui/tabs": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/tabs",
+      "data": {
+        "version": "3.0.0",
+        "packageName": "@chakra-ui/tabs",
+        "hash": "sha512-6Mlclp8L9lqXmsGWF5q5gmemZXOiOYuh0SGT/7PgJVNPz3LXREXlXg2an4MBUD8W5oTkduCX+3KTMCwRrVrDYw=="
+      }
+    },
+    "npm:@chakra-ui/tag": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/tag",
+      "data": {
+        "version": "3.1.1",
+        "packageName": "@chakra-ui/tag",
+        "hash": "sha512-Bdel79Dv86Hnge2PKOU+t8H28nm/7Y3cKd4Kfk9k3lOpUh4+nkSGe58dhRzht59lEqa4N9waCgQiBdkydjvBXQ=="
+      }
+    },
+    "npm:@chakra-ui/textarea": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/textarea",
+      "data": {
+        "version": "2.1.2",
+        "packageName": "@chakra-ui/textarea",
+        "hash": "sha512-ip7tvklVCZUb2fOHDb23qPy/Fr2mzDOGdkrpbNi50hDCiV4hFX02jdQJdi3ydHZUyVgZVBKPOJ+lT9i7sKA2wA=="
+      }
+    },
+    "npm:@chakra-ui/theme": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/theme",
+      "data": {
+        "version": "3.3.1",
+        "packageName": "@chakra-ui/theme",
+        "hash": "sha512-Hft/VaT8GYnItGCBbgWd75ICrIrIFrR7lVOhV/dQnqtfGqsVDlrztbSErvMkoPKt0UgAkd9/o44jmZ6X4U2nZQ=="
+      }
+    },
+    "npm:@chakra-ui/theme-tools": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/theme-tools",
+      "data": {
+        "version": "2.1.2",
+        "packageName": "@chakra-ui/theme-tools",
+        "hash": "sha512-Qdj8ajF9kxY4gLrq7gA+Azp8CtFHGO9tWMN2wfF9aQNgG9AuMhPrUzMq9AMQ0MXiYcgNq/FD3eegB43nHVmXVA=="
+      }
+    },
+    "npm:@chakra-ui/theme-utils": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/theme-utils",
+      "data": {
+        "version": "2.0.21",
+        "packageName": "@chakra-ui/theme-utils",
+        "hash": "sha512-FjH5LJbT794r0+VSCXB3lT4aubI24bLLRWB+CuRKHijRvsOg717bRdUN/N1fEmEpFnRVrbewttWh/OQs0EWpWw=="
+      }
+    },
+    "npm:@chakra-ui/toast": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/toast",
+      "data": {
+        "version": "7.0.2",
+        "packageName": "@chakra-ui/toast",
+        "hash": "sha512-yvRP8jFKRs/YnkuE41BVTq9nB2v/KDRmje9u6dgDmE5+1bFt3bwjdf9gVbif4u5Ve7F7BGk5E093ARRVtvLvXA=="
+      }
+    },
+    "npm:@chakra-ui/tooltip": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/tooltip",
+      "data": {
+        "version": "2.3.1",
+        "packageName": "@chakra-ui/tooltip",
+        "hash": "sha512-Rh39GBn/bL4kZpuEMPPRwYNnccRCL+w9OqamWHIB3Qboxs6h8cOyXfIdGxjo72lvhu1QI/a4KFqkM3St+WfC0A=="
+      }
+    },
+    "npm:@chakra-ui/transition": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/transition",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@chakra-ui/transition",
+        "hash": "sha512-orkT6T/Dt+/+kVwJNy7zwJ+U2xAZ3EU7M3XCs45RBvUnZDr/u9vdmaM/3D/rOpmQJWgQBwKPJleUXrYWUagEDQ=="
+      }
+    },
+    "npm:@chakra-ui/utils": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/utils",
+      "data": {
+        "version": "2.0.15",
+        "packageName": "@chakra-ui/utils",
+        "hash": "sha512-El4+jL0WSaYYs+rJbuYFDbjmfCcfGDmRY95GO4xwzit6YAPZBLcR65rOEwLps+XWluZTy1xdMrusg/hW0c1aAA=="
+      }
+    },
+    "npm:@chakra-ui/visually-hidden": {
+      "type": "npm",
+      "name": "npm:@chakra-ui/visually-hidden",
+      "data": {
+        "version": "2.2.0",
+        "packageName": "@chakra-ui/visually-hidden",
+        "hash": "sha512-KmKDg01SrQ7VbTD3+cPWf/UfpF5MSwm3v7MWi0n5t8HnnadT13MF0MJCDSXbBWnzLv1ZKJ6zlyAOeARWX+DpjQ=="
+      }
+    },
     "npm:@colors/colors": {
       "type": "npm",
       "name": "npm:@colors/colors",
@@ -2246,6 +3038,195 @@
         "version": "4.3.4",
         "packageName": "debug",
         "hash": "sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ=="
+      }
+    },
+    "npm:@emotion/babel-plugin": {
+      "type": "npm",
+      "name": "npm:@emotion/babel-plugin",
+      "data": {
+        "version": "11.11.0",
+        "packageName": "@emotion/babel-plugin",
+        "hash": "sha512-m4HEDZleaaCH+XgDDsPF15Ht6wTLsgDTeR3WYj9Q/k76JtWhrJjcP4+/XlG8LGT/Rol9qUfOIztXeA84ATpqPQ=="
+      }
+    },
+    "npm:convert-source-map@1.9.0": {
+      "type": "npm",
+      "name": "npm:convert-source-map@1.9.0",
+      "data": {
+        "version": "1.9.0",
+        "packageName": "convert-source-map",
+        "hash": "sha512-ASFBup0Mz1uyiIjANan1jzLQami9z1PoYSZCiiYW2FczPbenXc45FZdBZLzOT+r6+iciuEModtmCti+hjaAk0A=="
+      }
+    },
+    "npm:convert-source-map": {
+      "type": "npm",
+      "name": "npm:convert-source-map",
+      "data": {
+        "version": "2.0.0",
+        "packageName": "convert-source-map",
+        "hash": "sha512-Kvp459HrV2FEJ1CAsi1Ku+MY3kasH19TFykTz2xWmMeq6bk2NU3XXvfJ+Q61m0xktWwt+1HSYf3JZsTms3aRJg=="
+      }
+    },
+    "npm:escape-string-regexp@4.0.0": {
+      "type": "npm",
+      "name": "npm:escape-string-regexp@4.0.0",
+      "data": {
+        "version": "4.0.0",
+        "packageName": "escape-string-regexp",
+        "hash": "sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA=="
+      }
+    },
+    "npm:escape-string-regexp": {
+      "type": "npm",
+      "name": "npm:escape-string-regexp",
+      "data": {
+        "version": "1.0.5",
+        "packageName": "escape-string-regexp",
+        "hash": "sha512-vbRorB5FUQWvla16U8R/qgaFIya2qGzwDrNmCZuYKrbdSUMG6I1ZCGQRefkRVhuOkIGVne7BQ35DSfo1qvJqFg=="
+      }
+    },
+    "npm:escape-string-regexp@2.0.0": {
+      "type": "npm",
+      "name": "npm:escape-string-regexp@2.0.0",
+      "data": {
+        "version": "2.0.0",
+        "packageName": "escape-string-regexp",
+        "hash": "sha512-UpzcLCXolUWcNu5HtVMHYdXJjArjsF9C0aNnquZYY4uW/Vu0miy5YoWvbV345HauVvcAUnpRuhMMcqTcGOY2+w=="
+      }
+    },
+    "npm:source-map@0.5.7": {
+      "type": "npm",
+      "name": "npm:source-map@0.5.7",
+      "data": {
+        "version": "0.5.7",
+        "packageName": "source-map",
+        "hash": "sha512-LbrmJOMUSdEVxIKvdcJzQC+nQhe8FUZQTXQy6+I75skNgn3OoQ0DZA8YnFa7gp8tqtL3KPf1kmo0R5DoApeSGQ=="
+      }
+    },
+    "npm:source-map": {
+      "type": "npm",
+      "name": "npm:source-map",
+      "data": {
+        "version": "0.6.1",
+        "packageName": "source-map",
+        "hash": "sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g=="
+      }
+    },
+    "npm:source-map@0.7.4": {
+      "type": "npm",
+      "name": "npm:source-map@0.7.4",
+      "data": {
+        "version": "0.7.4",
+        "packageName": "source-map",
+        "hash": "sha512-l3BikUxvPOcn5E74dZiq5BGsTb5yEwhaTSzccU6t4sDOH8NWJCstKO5QT2CvtFoK6F0saL7p9xHAqHOlCPJygA=="
+      }
+    },
+    "npm:@emotion/cache": {
+      "type": "npm",
+      "name": "npm:@emotion/cache",
+      "data": {
+        "version": "11.11.0",
+        "packageName": "@emotion/cache",
+        "hash": "sha512-P34z9ssTCBi3e9EI1ZsWpNHcfY1r09ZO0rZbRO2ob3ZQMnFI35jB536qoXbkdesr5EUhYi22anuEJuyxifaqAQ=="
+      }
+    },
+    "npm:@emotion/hash": {
+      "type": "npm",
+      "name": "npm:@emotion/hash",
+      "data": {
+        "version": "0.9.1",
+        "packageName": "@emotion/hash",
+        "hash": "sha512-gJB6HLm5rYwSLI6PQa+X1t5CFGrv1J1TWG+sOyMCeKz2ojaj6Fnl/rZEspogG+cvqbt4AE/2eIyD2QfLKTBNlQ=="
+      }
+    },
+    "npm:@emotion/is-prop-valid": {
+      "type": "npm",
+      "name": "npm:@emotion/is-prop-valid",
+      "data": {
+        "version": "1.2.2",
+        "packageName": "@emotion/is-prop-valid",
+        "hash": "sha512-uNsoYd37AFmaCdXlg6EYD1KaPOaRWRByMCYzbKUX4+hhMfrxdVSelShywL4JVaAeM/eHUOSprYBQls+/neX3pw=="
+      }
+    },
+    "npm:@emotion/memoize": {
+      "type": "npm",
+      "name": "npm:@emotion/memoize",
+      "data": {
+        "version": "0.8.1",
+        "packageName": "@emotion/memoize",
+        "hash": "sha512-W2P2c/VRW1/1tLox0mVUalvnWXxavmv/Oum2aPsRcoDJuob75FC3Y8FbpfLwUegRcxINtGUMPq0tFCvYNTBXNA=="
+      }
+    },
+    "npm:@emotion/react": {
+      "type": "npm",
+      "name": "npm:@emotion/react",
+      "data": {
+        "version": "11.11.4",
+        "packageName": "@emotion/react",
+        "hash": "sha512-t8AjMlF0gHpvvxk5mAtCqR4vmxiGHCeJBaQO6gncUSdklELOgtwjerNY2yuJNfwnc6vi16U/+uMF+afIawJ9iw=="
+      }
+    },
+    "npm:@emotion/serialize": {
+      "type": "npm",
+      "name": "npm:@emotion/serialize",
+      "data": {
+        "version": "1.1.4",
+        "packageName": "@emotion/serialize",
+        "hash": "sha512-RIN04MBT8g+FnDwgvIUi8czvr1LU1alUMI05LekWB5DGyTm8cCBMCRpq3GqaiyEDRptEXOyXnvZ58GZYu4kBxQ=="
+      }
+    },
+    "npm:@emotion/sheet": {
+      "type": "npm",
+      "name": "npm:@emotion/sheet",
+      "data": {
+        "version": "1.2.2",
+        "packageName": "@emotion/sheet",
+        "hash": "sha512-0QBtGvaqtWi+nx6doRwDdBIzhNdZrXUppvTM4dtZZWEGTXL/XE/yJxLMGlDT1Gt+UHH5IX1n+jkXyytE/av7OA=="
+      }
+    },
+    "npm:@emotion/styled": {
+      "type": "npm",
+      "name": "npm:@emotion/styled",
+      "data": {
+        "version": "11.11.5",
+        "packageName": "@emotion/styled",
+        "hash": "sha512-/ZjjnaNKvuMPxcIiUkf/9SHoG4Q196DRl1w82hQ3WCsjo1IUR8uaGWrC6a87CrYAW0Kb/pK7hk8BnLgLRi9KoQ=="
+      }
+    },
+    "npm:@emotion/unitless": {
+      "type": "npm",
+      "name": "npm:@emotion/unitless",
+      "data": {
+        "version": "0.8.1",
+        "packageName": "@emotion/unitless",
+        "hash": "sha512-KOEGMu6dmJZtpadb476IsZBclKvILjopjUii3V+7MnXIQCYh8W3NgNcgwo21n9LXZX6EDIKvqfjYxXebDwxKmQ=="
+      }
+    },
+    "npm:@emotion/use-insertion-effect-with-fallbacks": {
+      "type": "npm",
+      "name": "npm:@emotion/use-insertion-effect-with-fallbacks",
+      "data": {
+        "version": "1.0.1",
+        "packageName": "@emotion/use-insertion-effect-with-fallbacks",
+        "hash": "sha512-jT/qyKZ9rzLErtrjGgdkMBn2OP8wl0G3sQlBb3YPryvKHsjvINUhVaPFfP+fpBcOkmrVOVEEHQFJ7nbj2TH2gw=="
+      }
+    },
+    "npm:@emotion/utils": {
+      "type": "npm",
+      "name": "npm:@emotion/utils",
+      "data": {
+        "version": "1.2.1",
+        "packageName": "@emotion/utils",
+        "hash": "sha512-Y2tGf3I+XVnajdItskUCn6LX+VUDmP6lTL4fcqsXAv43dnlbZiuW4MWQW38rW/BVWSE7Q/7+XQocmpnRYILUmg=="
+      }
+    },
+    "npm:@emotion/weak-memoize": {
+      "type": "npm",
+      "name": "npm:@emotion/weak-memoize",
+      "data": {
+        "version": "0.3.1",
+        "packageName": "@emotion/weak-memoize",
+        "hash": "sha512-EsBwpc7hBUJWAsNPBmJy4hxWx12v6bshQsldrVmjxJoc3isbxhOrF2IcCpaXxfvq03NwkI7sbsOLXbYuqF/8Ww=="
       }
     },
     "npm:@esbuild/aix-ppc64": {
@@ -3454,6 +4435,15 @@
         "hash": "sha512-SEP5kJpfGYqYKpBrj5XU3ahw5p5GOHJ0U5ssOSQ/WBVdwkD2Dzlce95exQTs3jOVWPPKLBN2rlEWkCK7dSmLvg=="
       }
     },
+    "npm:babel-plugin-macros": {
+      "type": "npm",
+      "name": "npm:babel-plugin-macros",
+      "data": {
+        "version": "3.1.0",
+        "packageName": "babel-plugin-macros",
+        "hash": "sha512-Cg7TFGpIr01vOQNODXOOaGz2NpCU5gl8x1qJFbb6hbZxR7XrcE2vtbAsTAbJ7/xwJtUuJEw8K8Zr/AE0LHlesg=="
+      }
+    },
     "npm:cosmiconfig@6.0.0": {
       "type": "npm",
       "name": "npm:cosmiconfig@6.0.0",
@@ -3463,15 +4453,6 @@
         "hash": "sha512-xb3ZL6+L8b9JLLCx3ZdoZy4+2ECphCMo2PwqgP1tlfVq6M6YReyzBJtvWWtbDSpNr9hn96pkCiZqUcFEc+54Qg=="
       }
     },
-    "npm:cosmiconfig": {
-      "type": "npm",
-      "name": "npm:cosmiconfig",
-      "data": {
-        "version": "8.3.6",
-        "packageName": "cosmiconfig",
-        "hash": "sha512-kcZ6+W5QzcJ3P1Mt+83OUv/oHFqZHIx8DuxG6eZ5RGMERoLqp4BuGjhHLYGK+Kf5XVkQvqBSmAy/nGWN3qDgEA=="
-      }
-    },
     "npm:cosmiconfig@7.1.0": {
       "type": "npm",
       "name": "npm:cosmiconfig@7.1.0",
@@ -3479,6 +4460,15 @@
         "version": "7.1.0",
         "packageName": "cosmiconfig",
         "hash": "sha512-AdmX6xUzdNASswsFtmwSt7Vj8po9IuqXm0UXz7QKPuEUmPB4XyjGfaAr2PSuELMwkRMVH1EpIkX5bTZGRB3eCA=="
+      }
+    },
+    "npm:cosmiconfig": {
+      "type": "npm",
+      "name": "npm:cosmiconfig",
+      "data": {
+        "version": "8.3.6",
+        "packageName": "cosmiconfig",
+        "hash": "sha512-kcZ6+W5QzcJ3P1Mt+83OUv/oHFqZHIx8DuxG6eZ5RGMERoLqp4BuGjhHLYGK+Kf5XVkQvqBSmAy/nGWN3qDgEA=="
       }
     },
     "npm:@nx/linter": {
@@ -3650,6 +4640,15 @@
         "version": "0.11.0",
         "packageName": "@pkgjs/parseargs",
         "hash": "sha512-+1VkjdD0QBLPodGrJUeqarH8VAIvQODIbwh9XpP5Syisf7YoQgsJKPNFoqqLQlu+VQ/tVSshMR6loPMn8U+dPg=="
+      }
+    },
+    "npm:@popperjs/core": {
+      "type": "npm",
+      "name": "npm:@popperjs/core",
+      "data": {
+        "version": "2.11.8",
+        "packageName": "@popperjs/core",
+        "hash": "sha512-P1st0aksCrn9sGZhp8GMYwBnQsbvAWsZAX44oXNNvLHGqAOcoVxmjZiohstwQ7SqKnbR47akdNi+uleWD8+g6A=="
       }
     },
     "npm:@rushstack/eslint-patch": {
@@ -4354,6 +5353,24 @@
         "hash": "sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ=="
       }
     },
+    "npm:@types/lodash": {
+      "type": "npm",
+      "name": "npm:@types/lodash",
+      "data": {
+        "version": "4.17.6",
+        "packageName": "@types/lodash",
+        "hash": "sha512-OpXEVoCKSS3lQqjx9GGGOapBeuW5eUboYHRlHP9urXPX25IKZ6AnP5ZRxtVf63iieUbsHxLn8NQ5Nlftc6yzAA=="
+      }
+    },
+    "npm:@types/lodash.mergewith": {
+      "type": "npm",
+      "name": "npm:@types/lodash.mergewith",
+      "data": {
+        "version": "4.6.7",
+        "packageName": "@types/lodash.mergewith",
+        "hash": "sha512-3m+lkO5CLRRYU0fhGRp7zbsGi6+BZj0uTVSwvcKU+nSlhjA9/QRNfuSGnD2mX6hQA7ZbmcCkzk5h4ZYGOtk14A=="
+      }
+    },
     "npm:@types/mime": {
       "type": "npm",
       "name": "npm:@types/mime",
@@ -4930,6 +5947,33 @@
         "hash": "sha512-aiATs7pSutzda/rq8fnuPwTglyVwjM22bNnK2ZgjrpAjQHSSl3lztd2f9evst1W/qnC58DRz7T7QndUDumAR4Q=="
       }
     },
+    "npm:@zag-js/dom-query": {
+      "type": "npm",
+      "name": "npm:@zag-js/dom-query",
+      "data": {
+        "version": "0.16.0",
+        "packageName": "@zag-js/dom-query",
+        "hash": "sha512-Oqhd6+biWyKnhKwFFuZrrf6lxBz2tX2pRQe6grUnYwO6HJ8BcbqZomy2lpOdr+3itlaUqx+Ywj5E5ZZDr/LBfQ=="
+      }
+    },
+    "npm:@zag-js/element-size": {
+      "type": "npm",
+      "name": "npm:@zag-js/element-size",
+      "data": {
+        "version": "0.10.5",
+        "packageName": "@zag-js/element-size",
+        "hash": "sha512-uQre5IidULANvVkNOBQ1tfgwTQcGl4hliPSe69Fct1VfYb2Fd0jdAcGzqQgPhfrXFpR62MxLPB7erxJ/ngtL8w=="
+      }
+    },
+    "npm:@zag-js/focus-visible": {
+      "type": "npm",
+      "name": "npm:@zag-js/focus-visible",
+      "data": {
+        "version": "0.16.0",
+        "packageName": "@zag-js/focus-visible",
+        "hash": "sha512-a7U/HSopvQbrDU4GLerpqiMcHKEkQkNPeDZJWz38cw/6Upunh41GjHetq5TB84hxyCaDzJ6q2nEdNoBQfC0FKA=="
+      }
+    },
     "npm:@zkochan/js-yaml": {
       "type": "npm",
       "name": "npm:@zkochan/js-yaml",
@@ -5126,6 +6170,15 @@
         "version": "4.1.3",
         "packageName": "arg",
         "hash": "sha512-58S9QDqG0Xx27YwPSt9fJxivjYl432YCwfDMfZ+71RAqUrZef7LrKQZ3LHLOwCS4FLNBplP533Zx895SeOCHvA=="
+      }
+    },
+    "npm:aria-hidden": {
+      "type": "npm",
+      "name": "npm:aria-hidden",
+      "data": {
+        "version": "1.2.4",
+        "packageName": "aria-hidden",
+        "hash": "sha512-y+CcFFwelSXpLZk/7fMB2mUbGtX9lKycf1MWJ7CaTIERyitVlyQx6C+sxcROU2BAJ24OiZyK+8wj2i8AlBoS3A=="
       }
     },
     "npm:aria-query": {
@@ -5965,6 +7018,15 @@
         "hash": "sha512-lHl4d5/ONEbLlJvaJNtsF/Lz+WvB07u2ycqTYbdrq7UypDXailES4valYb2eWiJFxZlVmpGekfqoxQhzyFdT4Q=="
       }
     },
+    "npm:color2k": {
+      "type": "npm",
+      "name": "npm:color2k",
+      "data": {
+        "version": "2.0.3",
+        "packageName": "color2k",
+        "hash": "sha512-zW190nQTIoXcGCaU08DvVNFTmQhUpnJfVuAKfWqUQkflXKpaDdpaYoM0iluLS9lgJNHyBF58KKA2FBEwkD7wog=="
+      }
+    },
     "npm:colord": {
       "type": "npm",
       "name": "npm:colord",
@@ -6064,6 +7126,15 @@
         "hash": "sha512-jaSIDzP9pZVS4ZfQ+TzvtiWhdpFhE2RDHz8QJkpX9SIpLq88VueF5jJw6t+6CUQcAoA6t+x89MLrWAqpfDE8iQ=="
       }
     },
+    "npm:compute-scroll-into-view": {
+      "type": "npm",
+      "name": "npm:compute-scroll-into-view",
+      "data": {
+        "version": "3.0.3",
+        "packageName": "compute-scroll-into-view",
+        "hash": "sha512-nadqwNxghAGTamwIqQSG433W6OADZx2vCo3UXHNrzTRHK/htu+7+L0zhjEoaeaQVNAi3YgqWDv8+tzf0hRfR+A=="
+      }
+    },
     "npm:concat-map": {
       "type": "npm",
       "name": "npm:concat-map",
@@ -6109,15 +7180,6 @@
         "hash": "sha512-nTjqfcBFEipKdXCv4YDQWCfmcLZKm81ldF0pAopTvyrFGVbcR6P/VAAd5G7N+0tTr8QqiU0tFadD6FK4NtJwOA=="
       }
     },
-    "npm:convert-source-map": {
-      "type": "npm",
-      "name": "npm:convert-source-map",
-      "data": {
-        "version": "2.0.0",
-        "packageName": "convert-source-map",
-        "hash": "sha512-Kvp459HrV2FEJ1CAsi1Ku+MY3kasH19TFykTz2xWmMeq6bk2NU3XXvfJ+Q61m0xktWwt+1HSYf3JZsTms3aRJg=="
-      }
-    },
     "npm:cookie": {
       "type": "npm",
       "name": "npm:cookie",
@@ -6143,6 +7205,15 @@
         "version": "2.0.6",
         "packageName": "copy-anything",
         "hash": "sha512-1j20GZTsvKNkc4BY3NpMOM8tt///wY3FpIzozTOFO2ffuZcV61nojHXVKIy3WM+7ADCy5FVhdZYHYDdgTU0yJw=="
+      }
+    },
+    "npm:copy-to-clipboard": {
+      "type": "npm",
+      "name": "npm:copy-to-clipboard",
+      "data": {
+        "version": "3.3.3",
+        "packageName": "copy-to-clipboard",
+        "hash": "sha512-2KV8NhB5JqC3ky0r9PMCAZKbUHSwtEo4CwCs0KXgruG43gX5PMqDEBbVU4OUzw2MuAWUfsuFmWvEKG5QRfSnJA=="
       }
     },
     "npm:copy-webpack-plugin": {
@@ -6215,6 +7286,15 @@
         "version": "7.0.3",
         "packageName": "cross-spawn",
         "hash": "sha512-iRDPJKUPVEND7dHPO8rkbOnPpyDygcDFtWjpeWNCgy8WP2rXcxXL8TskReQl6OrB2G7+UJrags1q15Fudc7G6w=="
+      }
+    },
+    "npm:css-box-model": {
+      "type": "npm",
+      "name": "npm:css-box-model",
+      "data": {
+        "version": "1.2.1",
+        "packageName": "css-box-model",
+        "hash": "sha512-a7Vr4Q/kd/aw96bnJG332W9V9LkJO69JRcaCYDUqjp6/z0w6VcZjgAcTbgFxEPfBgdnAwlh3iwu+hLopa+flJw=="
       }
     },
     "npm:css-declaration-sorter": {
@@ -6694,6 +7774,15 @@
         "hash": "sha512-T0NIuQpnTvFDATNuHN5roPwSBG83rFsuO+MXXH9/3N1eFbn4wcPjttvjMLEPWJ0RGUYgQE7cGgS3tNxbqCGM7g=="
       }
     },
+    "npm:detect-node-es": {
+      "type": "npm",
+      "name": "npm:detect-node-es",
+      "data": {
+        "version": "1.1.0",
+        "packageName": "detect-node-es",
+        "hash": "sha512-ypdmJU/TbBby2Dxibuv7ZLW3Bs1QEmM7nHjEANfohJLvE0XVujisn1qPJcZxg+qDucsr+bP6fLD1rPS3AhJ7EQ=="
+      }
+    },
     "npm:detect-port": {
       "type": "npm",
       "name": "npm:detect-port",
@@ -7079,33 +8168,6 @@
         "version": "1.0.3",
         "packageName": "escape-html",
         "hash": "sha512-NiSupZ4OeuGwr68lGIeym/ksIZMJodUGOSCZ/FSnTxcrekbvqrgdUxlJOMpijaKZVjAJrWrGs/6Jy8OMuyj9ow=="
-      }
-    },
-    "npm:escape-string-regexp": {
-      "type": "npm",
-      "name": "npm:escape-string-regexp",
-      "data": {
-        "version": "1.0.5",
-        "packageName": "escape-string-regexp",
-        "hash": "sha512-vbRorB5FUQWvla16U8R/qgaFIya2qGzwDrNmCZuYKrbdSUMG6I1ZCGQRefkRVhuOkIGVne7BQ35DSfo1qvJqFg=="
-      }
-    },
-    "npm:escape-string-regexp@4.0.0": {
-      "type": "npm",
-      "name": "npm:escape-string-regexp@4.0.0",
-      "data": {
-        "version": "4.0.0",
-        "packageName": "escape-string-regexp",
-        "hash": "sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA=="
-      }
-    },
-    "npm:escape-string-regexp@2.0.0": {
-      "type": "npm",
-      "name": "npm:escape-string-regexp@2.0.0",
-      "data": {
-        "version": "2.0.0",
-        "packageName": "escape-string-regexp",
-        "hash": "sha512-UpzcLCXolUWcNu5HtVMHYdXJjArjsF9C0aNnquZYY4uW/Vu0miy5YoWvbV345HauVvcAUnpRuhMMcqTcGOY2+w=="
       }
     },
     "npm:escodegen": {
@@ -7648,6 +8710,15 @@
         "hash": "sha512-9ZonPT4ZAK4a+1pUPVPZJapbi7O5qbbJPdYw/NOQWZZbVLdDTYM3A4R9z/DpAM08IDaFGsvPgiGZ82WEwUDWjg=="
       }
     },
+    "npm:find-root": {
+      "type": "npm",
+      "name": "npm:find-root",
+      "data": {
+        "version": "1.1.0",
+        "packageName": "find-root",
+        "hash": "sha512-NKfW6bec6GfKc0SGx1e07QZY9PE99u0Bft/0rzSD5k3sO/vwkVUpDUKVm5Gpp5Ue3YfShPFTX2070tDs5kB9Ng=="
+      }
+    },
     "npm:flat": {
       "type": "npm",
       "name": "npm:flat",
@@ -7673,6 +8744,15 @@
         "version": "3.3.1",
         "packageName": "flatted",
         "hash": "sha512-X8cqMLLie7KsNUDSdzeN8FYK9rEt4Dt67OsG/DNGnYTSDBG4uFAJFBnUeiV+zCVAvwFy56IjM9sH51jVaEhNxw=="
+      }
+    },
+    "npm:focus-lock": {
+      "type": "npm",
+      "name": "npm:focus-lock",
+      "data": {
+        "version": "1.3.5",
+        "packageName": "focus-lock",
+        "hash": "sha512-QFaHbhv9WPUeLYBDe/PAuLKJ4Dd9OPvKs9xZBr3yLXnUrDNaVXKu2baDBXe3naPY30hgHYSsf2JW4jzas2mDEQ=="
       }
     },
     "npm:follow-redirects": {
@@ -7754,6 +8834,42 @@
         "version": "4.3.7",
         "packageName": "fraction.js",
         "hash": "sha512-ZsDfxO51wGAXREY55a7la9LScWpwv9RxIrYABrlvOFBlH/ShPnrtsXeuUIfXKKOVicNxQ+o8JTbJvjS4M89yew=="
+      }
+    },
+    "npm:framer-motion": {
+      "type": "npm",
+      "name": "npm:framer-motion",
+      "data": {
+        "version": "11.2.12",
+        "packageName": "framer-motion",
+        "hash": "sha512-lCjkV4nA9rWOy2bhR4RZzkp2xpB++kFmUZ6D44V9VQaxk+JDmbDd5lq+u58DjJIIllE8AZEXp9OG/TyDN4FB/w=="
+      }
+    },
+    "npm:framesync": {
+      "type": "npm",
+      "name": "npm:framesync",
+      "data": {
+        "version": "6.1.2",
+        "packageName": "framesync",
+        "hash": "sha512-jBTqhX6KaQVDyus8muwZbBeGGP0XgujBRbQ7gM7BRdS3CadCZIHiawyzYLnafYcvZIh5j8WE7cxZKFn7dXhu9g=="
+      }
+    },
+    "npm:tslib@2.4.0": {
+      "type": "npm",
+      "name": "npm:tslib@2.4.0",
+      "data": {
+        "version": "2.4.0",
+        "packageName": "tslib",
+        "hash": "sha512-d6xOpEDfsi2CZVlPQzGeux8XMwLT9hssAsaPYExaQMuYskwb+x1x7J371tWlbBdWHroy99KnVB6qIkUbs5X3UQ=="
+      }
+    },
+    "npm:tslib": {
+      "type": "npm",
+      "name": "npm:tslib",
+      "data": {
+        "version": "2.6.2",
+        "packageName": "tslib",
+        "hash": "sha512-AEYxH93jGFPn/a2iVAwW87VuUIkR1FVUKB77NwMF7nBTDkDrrT/Hpt/IrCJ0QXhW27jTBDcf5ZY7w6RiqTMw2Q=="
       }
     },
     "npm:fresh": {
@@ -7862,6 +8978,15 @@
         "version": "1.2.4",
         "packageName": "get-intrinsic",
         "hash": "sha512-5uYhsJH8VJBTv7oslg4BznJYhDoRI6waYCxMmCdnTrcCrHA/fCFKoTFz2JKKE0HdDFUF7/oQuhzumXJK7paBRQ=="
+      }
+    },
+    "npm:get-nonce": {
+      "type": "npm",
+      "name": "npm:get-nonce",
+      "data": {
+        "version": "1.0.1",
+        "packageName": "get-nonce",
+        "hash": "sha512-FJhYRoDaiatfEkUK8HKlicmu/3SGFD51q3itKDGoSTysQJBnfOcxU5GxnhE1E6soB76MbT0MBtnKJuXyAx+96Q=="
       }
     },
     "npm:get-package-type": {
@@ -8051,6 +9176,15 @@
         "version": "1.2.0",
         "packageName": "he",
         "hash": "sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw=="
+      }
+    },
+    "npm:hoist-non-react-statics": {
+      "type": "npm",
+      "name": "npm:hoist-non-react-statics",
+      "data": {
+        "version": "3.3.2",
+        "packageName": "hoist-non-react-statics",
+        "hash": "sha512-/gGivxi8JPKWNm/W0jSmzcMPpfpPLc3dY/6GxhX2hQ9iGj3aDfklV4ET7NjKpSinLpJ5vafa9iiGIEZg10SfBw=="
       }
     },
     "npm:hosted-git-info": {
@@ -8375,6 +9509,15 @@
         "version": "1.0.7",
         "packageName": "internal-slot",
         "hash": "sha512-NGnrKwXzSms2qUUih/ILZ5JBqNTSa1+ZmP6flaIp6KmSElgE9qdndzS3cqjrDovwFdmwsGsLdeFgB6suw+1e9g=="
+      }
+    },
+    "npm:invariant": {
+      "type": "npm",
+      "name": "npm:invariant",
+      "data": {
+        "version": "2.2.4",
+        "packageName": "invariant",
+        "hash": "sha512-phJfQVBuaJM5raOpJjSfkiD6BpbCE4Ns//LaXl6wGYtUBY83nWS6Rf9tXm2e8VaK60JEjYldbPif/A2B1C2gNA=="
       }
     },
     "npm:ipaddr.js": {
@@ -9527,6 +10670,15 @@
         "version": "4.6.2",
         "packageName": "lodash.merge",
         "hash": "sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ=="
+      }
+    },
+    "npm:lodash.mergewith": {
+      "type": "npm",
+      "name": "npm:lodash.mergewith",
+      "data": {
+        "version": "4.6.2",
+        "packageName": "lodash.mergewith",
+        "hash": "sha512-GK3g5RPZWTRSeLSpgP8Xhra+pnjBC56q9FZYe1d5RN3TJ35dbkGy3YqBSMbyCrlbi+CM9Z3Jk5yTL7RCsqboyQ=="
       }
     },
     "npm:lodash.once": {
@@ -10852,6 +12004,15 @@
         "hash": "sha512-wS+hAgJShR0KhEvPJArfuPVN1+Hz1t0Y6n5jLrGQbkb4urgPE/0Rve+1kMB1v/oWgHgm4WIcV+i7F2pTVj+2iQ=="
       }
     },
+    "npm:react-clientside-effect": {
+      "type": "npm",
+      "name": "npm:react-clientside-effect",
+      "data": {
+        "version": "1.2.6",
+        "packageName": "react-clientside-effect",
+        "hash": "sha512-XGGGRQAKY+q25Lz9a/4EPqom7WRjz3z9R2k4jhVKA/puQFH/5Nt27vFZYql4m4NVNdUvX8PS3O7r/Zzm7cjUlg=="
+      }
+    },
     "npm:react-dom": {
       "type": "npm",
       "name": "npm:react-dom",
@@ -10859,6 +12020,51 @@
         "version": "18.3.1",
         "packageName": "react-dom",
         "hash": "sha512-5m4nQKp+rZRb09LNH59GM4BxTh9251/ylbKIbpe7TpGxfJ+9kv6BLkLBXIjjspbgbnIBNqlI23tRnTWT0snUIw=="
+      }
+    },
+    "npm:react-fast-compare": {
+      "type": "npm",
+      "name": "npm:react-fast-compare",
+      "data": {
+        "version": "3.2.2",
+        "packageName": "react-fast-compare",
+        "hash": "sha512-nsO+KSNgo1SbJqJEYRE9ERzo7YtYbou/OqjSQKxV7jcKox7+usiUVZOAC+XnDOABXggQTno0Y1CpVnuWEc1boQ=="
+      }
+    },
+    "npm:react-focus-lock": {
+      "type": "npm",
+      "name": "npm:react-focus-lock",
+      "data": {
+        "version": "2.12.1",
+        "packageName": "react-focus-lock",
+        "hash": "sha512-lfp8Dve4yJagkHiFrC1bGtib3mF2ktqwPJw4/WGcgPW+pJ/AVQA5X2vI7xgp13FcxFEpYBBHpXai/N2DBNC0Jw=="
+      }
+    },
+    "npm:react-remove-scroll": {
+      "type": "npm",
+      "name": "npm:react-remove-scroll",
+      "data": {
+        "version": "2.5.10",
+        "packageName": "react-remove-scroll",
+        "hash": "sha512-m3zvBRANPBw3qxVVjEIPEQinkcwlFZ4qyomuWVpNJdv4c6MvHfXV0C3L9Jx5rr3HeBHKNRX+1jreB5QloDIJjA=="
+      }
+    },
+    "npm:react-remove-scroll-bar": {
+      "type": "npm",
+      "name": "npm:react-remove-scroll-bar",
+      "data": {
+        "version": "2.3.6",
+        "packageName": "react-remove-scroll-bar",
+        "hash": "sha512-DtSYaao4mBmX+HDo5YWYdBWQwYIQQshUV/dVxFxK+KM26Wjwp1gZ6rv6OC3oujI6Bfu6Xyg3TwK533AQutsn/g=="
+      }
+    },
+    "npm:react-style-singleton": {
+      "type": "npm",
+      "name": "npm:react-style-singleton",
+      "data": {
+        "version": "2.2.1",
+        "packageName": "react-style-singleton",
+        "hash": "sha512-ZWj0fHEMyWkHzKYUr2Bs/4zU6XLmq9HsgBURm7g5pAVfyn49DgUiNgY2d4lXRlYSiCif9YBGpQleewkcqddc7g=="
       }
     },
     "npm:read-cache": {
@@ -11338,24 +12544,6 @@
         "hash": "sha512-GJgLTZ7vYb/JtPSSZ10hsOYIvEYsjbNU+zPdIHcUaWVNUEPivzxku31865sSSud0Da0W4lEeOPlmw93zLQchuQ=="
       }
     },
-    "npm:source-map": {
-      "type": "npm",
-      "name": "npm:source-map",
-      "data": {
-        "version": "0.6.1",
-        "packageName": "source-map",
-        "hash": "sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g=="
-      }
-    },
-    "npm:source-map@0.7.4": {
-      "type": "npm",
-      "name": "npm:source-map@0.7.4",
-      "data": {
-        "version": "0.7.4",
-        "packageName": "source-map",
-        "hash": "sha512-l3BikUxvPOcn5E74dZiq5BGsTb5yEwhaTSzccU6t4sDOH8NWJCstKO5QT2CvtFoK6F0saL7p9xHAqHOlCPJygA=="
-      }
-    },
     "npm:source-map-js": {
       "type": "npm",
       "name": "npm:source-map-js",
@@ -11545,6 +12733,15 @@
         "hash": "sha512-gSTTEQ670cJNoaeIp9KX6lZmm8LJ3jPB5yJmX8Zq/wQxOsAFXV3qjWzHas3YYk1qesuVIyYWWUpZ0vSE/dTSGg=="
       }
     },
+    "npm:stylis": {
+      "type": "npm",
+      "name": "npm:stylis",
+      "data": {
+        "version": "4.2.0",
+        "packageName": "stylis",
+        "hash": "sha512-Orov6g6BB1sDfYgzWfTHDOxamtX1bE/zo104Dh9e6fqJ3PooipYyfJ0pUmrZO2wAvO8YbEyeFrkV91XTsGMSrw=="
+      }
+    },
     "npm:stylus": {
       "type": "npm",
       "name": "npm:stylus",
@@ -11680,6 +12877,15 @@
         "hash": "sha512-eHY7nBftgThBqOyHGVN+l8gF0BucP09fMo0oO/Lb0w1OF80dJv+lDVpXG60WMQvkcxAkNybKsrEIE3ZtKGmPrA=="
       }
     },
+    "npm:tiny-invariant": {
+      "type": "npm",
+      "name": "npm:tiny-invariant",
+      "data": {
+        "version": "1.3.3",
+        "packageName": "tiny-invariant",
+        "hash": "sha512-+FbBPE1o9QAYvviau/qC5SE3caw21q3xkvWKBtja5vgqOWIHHJ3ioaq1VPfn/Szqctz2bU/oYeKd9/z5BL+PVg=="
+      }
+    },
     "npm:tmp": {
       "type": "npm",
       "name": "npm:tmp",
@@ -11714,6 +12920,15 @@
         "version": "5.0.1",
         "packageName": "to-regex-range",
         "hash": "sha512-65P7iz6X5yEr1cwcgvQxbbIw7Uk3gOy5dIdtZ4rDveLqhrdJP+Li/Hx6tyK0NEb+2GCyneCMJiGqrADCSNk8sQ=="
+      }
+    },
+    "npm:toggle-selection": {
+      "type": "npm",
+      "name": "npm:toggle-selection",
+      "data": {
+        "version": "1.0.6",
+        "packageName": "toggle-selection",
+        "hash": "sha512-BiZS+C1OS8g/q2RRbJmy59xpyghNBqrr6k5L/uKBGRsTfxmu3ffiRnd8mlGPUVayg8pvfi5urfnu8TU7DVOkLQ=="
       }
     },
     "npm:toidentifier": {
@@ -11804,15 +13019,6 @@
         "version": "4.0.0",
         "packageName": "tsconfig-paths-webpack-plugin",
         "hash": "sha512-fw/7265mIWukrSHd0i+wSwx64kYUSAKPfxRDksjKIYTxSAp9W9/xcZVBF4Kl0eqQd5eBpAQ/oQrc5RyM/0c1GQ=="
-      }
-    },
-    "npm:tslib": {
-      "type": "npm",
-      "name": "npm:tslib",
-      "data": {
-        "version": "2.6.2",
-        "packageName": "tslib",
-        "hash": "sha512-AEYxH93jGFPn/a2iVAwW87VuUIkR1FVUKB77NwMF7nBTDkDrrT/Hpt/IrCJ0QXhW27jTBDcf5ZY7w6RiqTMw2Q=="
       }
     },
     "npm:tunnel-agent": {
@@ -12020,6 +13226,24 @@
         "version": "1.5.10",
         "packageName": "url-parse",
         "hash": "sha512-WypcfiRhfeUP9vvF0j6rw0J3hrWrw6iZv3+22h6iRMJ/8z1Tj6XfLP4DsUix5MhMPnXpiHDoKyoZ/bdCkwBCiQ=="
+      }
+    },
+    "npm:use-callback-ref": {
+      "type": "npm",
+      "name": "npm:use-callback-ref",
+      "data": {
+        "version": "1.3.2",
+        "packageName": "use-callback-ref",
+        "hash": "sha512-elOQwe6Q8gqZgDA8mrh44qRTQqpIHDcZ3hXTLjBe1i4ph8XpNJnO+aQf3NaG+lriLopI4HMx9VjQLfPQ6vhnoA=="
+      }
+    },
+    "npm:use-sidecar": {
+      "type": "npm",
+      "name": "npm:use-sidecar",
+      "data": {
+        "version": "1.1.2",
+        "packageName": "use-sidecar",
+        "hash": "sha512-epTbsLuzZ7lPClpz2TyryBfztm7m+28DlEv2ZCQ3MDr5ssiwyOwGH/e5F9CkfWjJ1t4clvI58yF822/GUkjjhw=="
       }
     },
     "npm:util-deprecate": {
@@ -12542,12 +13766,27 @@
         "source": "recipes-app",
         "target": "ui-react-components",
         "type": "static"
+      },
+      {
+        "source": "recipes-app",
+        "target": "npm:@chakra-ui/react",
+        "type": "static"
+      },
+      {
+        "source": "recipes-app",
+        "target": "npm:next",
+        "type": "static"
       }
     ],
     "learning": [
       {
         "source": "learning",
         "target": "npm:@eslint/eslintrc",
+        "type": "static"
+      },
+      {
+        "source": "learning",
+        "target": "npm:@nx/eslint-plugin",
         "type": "static"
       },
       {
@@ -12593,11 +13832,6 @@
       {
         "source": "learning",
         "target": "npm:@nx/eslint",
-        "type": "static"
-      },
-      {
-        "source": "learning",
-        "target": "npm:@nx/eslint-plugin",
         "type": "static"
       },
       {
@@ -12772,12 +14006,37 @@
       },
       {
         "source": "learning",
+        "target": "npm:@chakra-ui/next-js",
+        "type": "static"
+      },
+      {
+        "source": "learning",
+        "target": "npm:@chakra-ui/react",
+        "type": "static"
+      },
+      {
+        "source": "learning",
+        "target": "npm:@emotion/react",
+        "type": "static"
+      },
+      {
+        "source": "learning",
+        "target": "npm:@emotion/styled",
+        "type": "static"
+      },
+      {
+        "source": "learning",
         "target": "npm:axios",
         "type": "static"
       },
       {
         "source": "learning",
         "target": "npm:express",
+        "type": "static"
+      },
+      {
+        "source": "learning",
+        "target": "npm:framer-motion",
         "type": "static"
       },
       {
@@ -15251,6 +16510,2398 @@
         "type": "static"
       }
     ],
+    "npm:@chakra-ui/accordion": [
+      {
+        "source": "npm:@chakra-ui/accordion",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/accordion",
+        "target": "npm:framer-motion",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/accordion",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/accordion",
+        "target": "npm:@chakra-ui/descendant",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/accordion",
+        "target": "npm:@chakra-ui/icon",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/accordion",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/accordion",
+        "target": "npm:@chakra-ui/react-use-controllable-state",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/accordion",
+        "target": "npm:@chakra-ui/react-use-merge-refs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/accordion",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/accordion",
+        "target": "npm:@chakra-ui/transition",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/alert": [
+      {
+        "source": "npm:@chakra-ui/alert",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/alert",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/alert",
+        "target": "npm:@chakra-ui/icon",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/alert",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/alert",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/alert",
+        "target": "npm:@chakra-ui/spinner",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/avatar": [
+      {
+        "source": "npm:@chakra-ui/avatar",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/avatar",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/avatar",
+        "target": "npm:@chakra-ui/image",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/avatar",
+        "target": "npm:@chakra-ui/react-children-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/avatar",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/avatar",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/breadcrumb": [
+      {
+        "source": "npm:@chakra-ui/breadcrumb",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/breadcrumb",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/breadcrumb",
+        "target": "npm:@chakra-ui/react-children-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/breadcrumb",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/breadcrumb",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/breakpoint-utils": [
+      {
+        "source": "npm:@chakra-ui/breakpoint-utils",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/button": [
+      {
+        "source": "npm:@chakra-ui/button",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/button",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/button",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/button",
+        "target": "npm:@chakra-ui/react-use-merge-refs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/button",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/button",
+        "target": "npm:@chakra-ui/spinner",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/card": [
+      {
+        "source": "npm:@chakra-ui/card",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/card",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/card",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/checkbox": [
+      {
+        "source": "npm:@chakra-ui/checkbox",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/checkbox",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/checkbox",
+        "target": "npm:@chakra-ui/form-control",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/checkbox",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/checkbox",
+        "target": "npm:@chakra-ui/react-types",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/checkbox",
+        "target": "npm:@chakra-ui/react-use-callback-ref",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/checkbox",
+        "target": "npm:@chakra-ui/react-use-controllable-state",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/checkbox",
+        "target": "npm:@chakra-ui/react-use-merge-refs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/checkbox",
+        "target": "npm:@chakra-ui/react-use-safe-layout-effect",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/checkbox",
+        "target": "npm:@chakra-ui/react-use-update-effect",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/checkbox",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/checkbox",
+        "target": "npm:@chakra-ui/visually-hidden",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/checkbox",
+        "target": "npm:@zag-js/focus-visible",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/clickable": [
+      {
+        "source": "npm:@chakra-ui/clickable",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/clickable",
+        "target": "npm:@chakra-ui/react-use-merge-refs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/clickable",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/close-button": [
+      {
+        "source": "npm:@chakra-ui/close-button",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/close-button",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/close-button",
+        "target": "npm:@chakra-ui/icon",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/color-mode": [
+      {
+        "source": "npm:@chakra-ui/color-mode",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/color-mode",
+        "target": "npm:@chakra-ui/react-use-safe-layout-effect",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/control-box": [
+      {
+        "source": "npm:@chakra-ui/control-box",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/control-box",
+        "target": "npm:react",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/counter": [
+      {
+        "source": "npm:@chakra-ui/counter",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/counter",
+        "target": "npm:@chakra-ui/number-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/counter",
+        "target": "npm:@chakra-ui/react-use-callback-ref",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/counter",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/css-reset": [
+      {
+        "source": "npm:@chakra-ui/css-reset",
+        "target": "npm:@emotion/react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/css-reset",
+        "target": "npm:react",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/descendant": [
+      {
+        "source": "npm:@chakra-ui/descendant",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/descendant",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/descendant",
+        "target": "npm:@chakra-ui/react-use-merge-refs",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/editable": [
+      {
+        "source": "npm:@chakra-ui/editable",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/editable",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/editable",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/editable",
+        "target": "npm:@chakra-ui/react-types",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/editable",
+        "target": "npm:@chakra-ui/react-use-callback-ref",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/editable",
+        "target": "npm:@chakra-ui/react-use-controllable-state",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/editable",
+        "target": "npm:@chakra-ui/react-use-focus-on-pointer-down",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/editable",
+        "target": "npm:@chakra-ui/react-use-merge-refs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/editable",
+        "target": "npm:@chakra-ui/react-use-safe-layout-effect",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/editable",
+        "target": "npm:@chakra-ui/react-use-update-effect",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/editable",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/focus-lock": [
+      {
+        "source": "npm:@chakra-ui/focus-lock",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/focus-lock",
+        "target": "npm:@chakra-ui/dom-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/focus-lock",
+        "target": "npm:react-focus-lock",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/form-control": [
+      {
+        "source": "npm:@chakra-ui/form-control",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/form-control",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/form-control",
+        "target": "npm:@chakra-ui/icon",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/form-control",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/form-control",
+        "target": "npm:@chakra-ui/react-types",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/form-control",
+        "target": "npm:@chakra-ui/react-use-merge-refs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/form-control",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/hooks": [
+      {
+        "source": "npm:@chakra-ui/hooks",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/hooks",
+        "target": "npm:@chakra-ui/react-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/hooks",
+        "target": "npm:@chakra-ui/utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/hooks",
+        "target": "npm:compute-scroll-into-view",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/hooks",
+        "target": "npm:copy-to-clipboard",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/icon": [
+      {
+        "source": "npm:@chakra-ui/icon",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/icon",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/icon",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/image": [
+      {
+        "source": "npm:@chakra-ui/image",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/image",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/image",
+        "target": "npm:@chakra-ui/react-use-safe-layout-effect",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/image",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/input": [
+      {
+        "source": "npm:@chakra-ui/input",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/input",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/input",
+        "target": "npm:@chakra-ui/form-control",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/input",
+        "target": "npm:@chakra-ui/object-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/input",
+        "target": "npm:@chakra-ui/react-children-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/input",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/input",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/layout": [
+      {
+        "source": "npm:@chakra-ui/layout",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/layout",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/layout",
+        "target": "npm:@chakra-ui/breakpoint-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/layout",
+        "target": "npm:@chakra-ui/icon",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/layout",
+        "target": "npm:@chakra-ui/object-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/layout",
+        "target": "npm:@chakra-ui/react-children-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/layout",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/layout",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/live-region": [
+      {
+        "source": "npm:@chakra-ui/live-region",
+        "target": "npm:react",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/media-query": [
+      {
+        "source": "npm:@chakra-ui/media-query",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/media-query",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/media-query",
+        "target": "npm:@chakra-ui/breakpoint-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/media-query",
+        "target": "npm:@chakra-ui/react-env",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/media-query",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/menu": [
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:framer-motion",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:@chakra-ui/clickable",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:@chakra-ui/descendant",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:@chakra-ui/lazy-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:@chakra-ui/popper",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:@chakra-ui/react-children-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:@chakra-ui/react-use-animation-state",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:@chakra-ui/react-use-controllable-state",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:@chakra-ui/react-use-disclosure",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:@chakra-ui/react-use-focus-effect",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:@chakra-ui/react-use-merge-refs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:@chakra-ui/react-use-outside-click",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:@chakra-ui/react-use-update-effect",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/menu",
+        "target": "npm:@chakra-ui/transition",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/modal": [
+      {
+        "source": "npm:@chakra-ui/modal",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/modal",
+        "target": "npm:framer-motion",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/modal",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/modal",
+        "target": "npm:react-dom",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/modal",
+        "target": "npm:@chakra-ui/close-button",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/modal",
+        "target": "npm:@chakra-ui/focus-lock",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/modal",
+        "target": "npm:@chakra-ui/portal",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/modal",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/modal",
+        "target": "npm:@chakra-ui/react-types",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/modal",
+        "target": "npm:@chakra-ui/react-use-merge-refs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/modal",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/modal",
+        "target": "npm:@chakra-ui/transition",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/modal",
+        "target": "npm:aria-hidden",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/modal",
+        "target": "npm:react-remove-scroll",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/next-js": [
+      {
+        "source": "npm:@chakra-ui/next-js",
+        "target": "npm:@chakra-ui/react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/next-js",
+        "target": "npm:@emotion/react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/next-js",
+        "target": "npm:next",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/next-js",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/next-js",
+        "target": "npm:@emotion/cache",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/number-input": [
+      {
+        "source": "npm:@chakra-ui/number-input",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/number-input",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/number-input",
+        "target": "npm:@chakra-ui/counter",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/number-input",
+        "target": "npm:@chakra-ui/form-control",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/number-input",
+        "target": "npm:@chakra-ui/icon",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/number-input",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/number-input",
+        "target": "npm:@chakra-ui/react-types",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/number-input",
+        "target": "npm:@chakra-ui/react-use-callback-ref",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/number-input",
+        "target": "npm:@chakra-ui/react-use-event-listener",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/number-input",
+        "target": "npm:@chakra-ui/react-use-interval",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/number-input",
+        "target": "npm:@chakra-ui/react-use-merge-refs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/number-input",
+        "target": "npm:@chakra-ui/react-use-safe-layout-effect",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/number-input",
+        "target": "npm:@chakra-ui/react-use-update-effect",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/number-input",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/pin-input": [
+      {
+        "source": "npm:@chakra-ui/pin-input",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/pin-input",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/pin-input",
+        "target": "npm:@chakra-ui/descendant",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/pin-input",
+        "target": "npm:@chakra-ui/react-children-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/pin-input",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/pin-input",
+        "target": "npm:@chakra-ui/react-use-controllable-state",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/pin-input",
+        "target": "npm:@chakra-ui/react-use-merge-refs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/pin-input",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/popover": [
+      {
+        "source": "npm:@chakra-ui/popover",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/popover",
+        "target": "npm:framer-motion",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/popover",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/popover",
+        "target": "npm:@chakra-ui/close-button",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/popover",
+        "target": "npm:@chakra-ui/lazy-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/popover",
+        "target": "npm:@chakra-ui/popper",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/popover",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/popover",
+        "target": "npm:@chakra-ui/react-types",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/popover",
+        "target": "npm:@chakra-ui/react-use-animation-state",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/popover",
+        "target": "npm:@chakra-ui/react-use-disclosure",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/popover",
+        "target": "npm:@chakra-ui/react-use-focus-effect",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/popover",
+        "target": "npm:@chakra-ui/react-use-focus-on-pointer-down",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/popover",
+        "target": "npm:@chakra-ui/react-use-merge-refs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/popover",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/popper": [
+      {
+        "source": "npm:@chakra-ui/popper",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/popper",
+        "target": "npm:@chakra-ui/react-types",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/popper",
+        "target": "npm:@chakra-ui/react-use-merge-refs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/popper",
+        "target": "npm:@popperjs/core",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/portal": [
+      {
+        "source": "npm:@chakra-ui/portal",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/portal",
+        "target": "npm:react-dom",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/portal",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/portal",
+        "target": "npm:@chakra-ui/react-use-safe-layout-effect",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/progress": [
+      {
+        "source": "npm:@chakra-ui/progress",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/progress",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/progress",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/provider": [
+      {
+        "source": "npm:@chakra-ui/provider",
+        "target": "npm:@emotion/react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/provider",
+        "target": "npm:@emotion/styled",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/provider",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/provider",
+        "target": "npm:react-dom",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/provider",
+        "target": "npm:@chakra-ui/css-reset",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/provider",
+        "target": "npm:@chakra-ui/portal",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/provider",
+        "target": "npm:@chakra-ui/react-env",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/provider",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/provider",
+        "target": "npm:@chakra-ui/utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/radio": [
+      {
+        "source": "npm:@chakra-ui/radio",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/radio",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/radio",
+        "target": "npm:@chakra-ui/form-control",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/radio",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/radio",
+        "target": "npm:@chakra-ui/react-types",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/radio",
+        "target": "npm:@chakra-ui/react-use-merge-refs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/radio",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/radio",
+        "target": "npm:@zag-js/focus-visible",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react": [
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@emotion/react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@emotion/styled",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:framer-motion",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:react-dom",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/accordion",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/alert",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/avatar",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/breadcrumb",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/button",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/card",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/checkbox",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/close-button",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/control-box",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/counter",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/css-reset",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/editable",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/focus-lock",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/form-control",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/hooks",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/icon",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/image",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/input",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/layout",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/live-region",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/media-query",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/menu",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/modal",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/number-input",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/pin-input",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/popover",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/popper",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/portal",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/progress",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/provider",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/radio",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/react-env",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/select",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/skeleton",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/skip-nav",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/slider",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/spinner",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/stat",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/stepper",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/styled-system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/switch",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/table",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/tabs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/tag",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/textarea",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/theme",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/theme-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/toast",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/tooltip",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/transition",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react",
+        "target": "npm:@chakra-ui/visually-hidden",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-children-utils": [
+      {
+        "source": "npm:@chakra-ui/react-children-utils",
+        "target": "npm:react",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-context": [
+      {
+        "source": "npm:@chakra-ui/react-context",
+        "target": "npm:react",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-env": [
+      {
+        "source": "npm:@chakra-ui/react-env",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-env",
+        "target": "npm:@chakra-ui/react-use-safe-layout-effect",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-types": [
+      {
+        "source": "npm:@chakra-ui/react-types",
+        "target": "npm:react",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-use-animation-state": [
+      {
+        "source": "npm:@chakra-ui/react-use-animation-state",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-use-animation-state",
+        "target": "npm:@chakra-ui/dom-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-use-animation-state",
+        "target": "npm:@chakra-ui/react-use-event-listener",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-use-callback-ref": [
+      {
+        "source": "npm:@chakra-ui/react-use-callback-ref",
+        "target": "npm:react",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-use-controllable-state": [
+      {
+        "source": "npm:@chakra-ui/react-use-controllable-state",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-use-controllable-state",
+        "target": "npm:@chakra-ui/react-use-callback-ref",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-use-disclosure": [
+      {
+        "source": "npm:@chakra-ui/react-use-disclosure",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-use-disclosure",
+        "target": "npm:@chakra-ui/react-use-callback-ref",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-use-event-listener": [
+      {
+        "source": "npm:@chakra-ui/react-use-event-listener",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-use-event-listener",
+        "target": "npm:@chakra-ui/react-use-callback-ref",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-use-focus-effect": [
+      {
+        "source": "npm:@chakra-ui/react-use-focus-effect",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-use-focus-effect",
+        "target": "npm:@chakra-ui/dom-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-use-focus-effect",
+        "target": "npm:@chakra-ui/react-use-event-listener",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-use-focus-effect",
+        "target": "npm:@chakra-ui/react-use-safe-layout-effect",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-use-focus-effect",
+        "target": "npm:@chakra-ui/react-use-update-effect",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-use-focus-on-pointer-down": [
+      {
+        "source": "npm:@chakra-ui/react-use-focus-on-pointer-down",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-use-focus-on-pointer-down",
+        "target": "npm:@chakra-ui/react-use-event-listener",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-use-interval": [
+      {
+        "source": "npm:@chakra-ui/react-use-interval",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-use-interval",
+        "target": "npm:@chakra-ui/react-use-callback-ref",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-use-latest-ref": [
+      {
+        "source": "npm:@chakra-ui/react-use-latest-ref",
+        "target": "npm:react",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-use-merge-refs": [
+      {
+        "source": "npm:@chakra-ui/react-use-merge-refs",
+        "target": "npm:react",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-use-outside-click": [
+      {
+        "source": "npm:@chakra-ui/react-use-outside-click",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-use-outside-click",
+        "target": "npm:@chakra-ui/react-use-callback-ref",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-use-pan-event": [
+      {
+        "source": "npm:@chakra-ui/react-use-pan-event",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-use-pan-event",
+        "target": "npm:@chakra-ui/event-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-use-pan-event",
+        "target": "npm:@chakra-ui/react-use-latest-ref",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-use-pan-event",
+        "target": "npm:framesync",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-use-previous": [
+      {
+        "source": "npm:@chakra-ui/react-use-previous",
+        "target": "npm:react",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-use-safe-layout-effect": [
+      {
+        "source": "npm:@chakra-ui/react-use-safe-layout-effect",
+        "target": "npm:react",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-use-size": [
+      {
+        "source": "npm:@chakra-ui/react-use-size",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-use-size",
+        "target": "npm:@zag-js/element-size",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-use-timeout": [
+      {
+        "source": "npm:@chakra-ui/react-use-timeout",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-use-timeout",
+        "target": "npm:@chakra-ui/react-use-callback-ref",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-use-update-effect": [
+      {
+        "source": "npm:@chakra-ui/react-use-update-effect",
+        "target": "npm:react",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/react-utils": [
+      {
+        "source": "npm:@chakra-ui/react-utils",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/react-utils",
+        "target": "npm:@chakra-ui/utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/select": [
+      {
+        "source": "npm:@chakra-ui/select",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/select",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/select",
+        "target": "npm:@chakra-ui/form-control",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/select",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/skeleton": [
+      {
+        "source": "npm:@chakra-ui/skeleton",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/skeleton",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/skeleton",
+        "target": "npm:@chakra-ui/media-query",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/skeleton",
+        "target": "npm:@chakra-ui/react-use-previous",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/skeleton",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/skip-nav": [
+      {
+        "source": "npm:@chakra-ui/skip-nav",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/skip-nav",
+        "target": "npm:react",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/slider": [
+      {
+        "source": "npm:@chakra-ui/slider",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/slider",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/slider",
+        "target": "npm:@chakra-ui/number-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/slider",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/slider",
+        "target": "npm:@chakra-ui/react-types",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/slider",
+        "target": "npm:@chakra-ui/react-use-callback-ref",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/slider",
+        "target": "npm:@chakra-ui/react-use-controllable-state",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/slider",
+        "target": "npm:@chakra-ui/react-use-latest-ref",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/slider",
+        "target": "npm:@chakra-ui/react-use-merge-refs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/slider",
+        "target": "npm:@chakra-ui/react-use-pan-event",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/slider",
+        "target": "npm:@chakra-ui/react-use-size",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/slider",
+        "target": "npm:@chakra-ui/react-use-update-effect",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/spinner": [
+      {
+        "source": "npm:@chakra-ui/spinner",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/spinner",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/spinner",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/stat": [
+      {
+        "source": "npm:@chakra-ui/stat",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/stat",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/stat",
+        "target": "npm:@chakra-ui/icon",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/stat",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/stat",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/stepper": [
+      {
+        "source": "npm:@chakra-ui/stepper",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/stepper",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/stepper",
+        "target": "npm:@chakra-ui/icon",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/stepper",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/stepper",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/styled-system": [
+      {
+        "source": "npm:@chakra-ui/styled-system",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/styled-system",
+        "target": "npm:csstype",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/styled-system",
+        "target": "npm:lodash.mergewith",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/switch": [
+      {
+        "source": "npm:@chakra-ui/switch",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/switch",
+        "target": "npm:framer-motion",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/switch",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/switch",
+        "target": "npm:@chakra-ui/checkbox",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/switch",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/system": [
+      {
+        "source": "npm:@chakra-ui/system",
+        "target": "npm:@emotion/react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/system",
+        "target": "npm:@emotion/styled",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/system",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/system",
+        "target": "npm:@chakra-ui/color-mode",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/system",
+        "target": "npm:@chakra-ui/object-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/system",
+        "target": "npm:@chakra-ui/react-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/system",
+        "target": "npm:@chakra-ui/styled-system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/system",
+        "target": "npm:@chakra-ui/theme-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/system",
+        "target": "npm:@chakra-ui/utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/system",
+        "target": "npm:react-fast-compare",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/table": [
+      {
+        "source": "npm:@chakra-ui/table",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/table",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/table",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/table",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/tabs": [
+      {
+        "source": "npm:@chakra-ui/tabs",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tabs",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tabs",
+        "target": "npm:@chakra-ui/clickable",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tabs",
+        "target": "npm:@chakra-ui/descendant",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tabs",
+        "target": "npm:@chakra-ui/lazy-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tabs",
+        "target": "npm:@chakra-ui/react-children-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tabs",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tabs",
+        "target": "npm:@chakra-ui/react-use-controllable-state",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tabs",
+        "target": "npm:@chakra-ui/react-use-merge-refs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tabs",
+        "target": "npm:@chakra-ui/react-use-safe-layout-effect",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tabs",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/tag": [
+      {
+        "source": "npm:@chakra-ui/tag",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tag",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tag",
+        "target": "npm:@chakra-ui/icon",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tag",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/textarea": [
+      {
+        "source": "npm:@chakra-ui/textarea",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/textarea",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/textarea",
+        "target": "npm:@chakra-ui/form-control",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/textarea",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/theme": [
+      {
+        "source": "npm:@chakra-ui/theme",
+        "target": "npm:@chakra-ui/styled-system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/theme",
+        "target": "npm:@chakra-ui/anatomy",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/theme",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/theme",
+        "target": "npm:@chakra-ui/theme-tools",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/theme-tools": [
+      {
+        "source": "npm:@chakra-ui/theme-tools",
+        "target": "npm:@chakra-ui/styled-system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/theme-tools",
+        "target": "npm:@chakra-ui/anatomy",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/theme-tools",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/theme-tools",
+        "target": "npm:color2k",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/theme-utils": [
+      {
+        "source": "npm:@chakra-ui/theme-utils",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/theme-utils",
+        "target": "npm:@chakra-ui/styled-system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/theme-utils",
+        "target": "npm:@chakra-ui/theme",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/theme-utils",
+        "target": "npm:lodash.mergewith",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/toast": [
+      {
+        "source": "npm:@chakra-ui/toast",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/toast",
+        "target": "npm:framer-motion",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/toast",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/toast",
+        "target": "npm:react-dom",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/toast",
+        "target": "npm:@chakra-ui/alert",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/toast",
+        "target": "npm:@chakra-ui/close-button",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/toast",
+        "target": "npm:@chakra-ui/portal",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/toast",
+        "target": "npm:@chakra-ui/react-context",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/toast",
+        "target": "npm:@chakra-ui/react-use-timeout",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/toast",
+        "target": "npm:@chakra-ui/react-use-update-effect",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/toast",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/toast",
+        "target": "npm:@chakra-ui/styled-system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/toast",
+        "target": "npm:@chakra-ui/theme",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/tooltip": [
+      {
+        "source": "npm:@chakra-ui/tooltip",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tooltip",
+        "target": "npm:framer-motion",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tooltip",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tooltip",
+        "target": "npm:react-dom",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tooltip",
+        "target": "npm:@chakra-ui/dom-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tooltip",
+        "target": "npm:@chakra-ui/popper",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tooltip",
+        "target": "npm:@chakra-ui/portal",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tooltip",
+        "target": "npm:@chakra-ui/react-types",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tooltip",
+        "target": "npm:@chakra-ui/react-use-disclosure",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tooltip",
+        "target": "npm:@chakra-ui/react-use-event-listener",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tooltip",
+        "target": "npm:@chakra-ui/react-use-merge-refs",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/tooltip",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/transition": [
+      {
+        "source": "npm:@chakra-ui/transition",
+        "target": "npm:framer-motion",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/transition",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/transition",
+        "target": "npm:@chakra-ui/shared-utils",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/utils": [
+      {
+        "source": "npm:@chakra-ui/utils",
+        "target": "npm:@types/lodash.mergewith",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/utils",
+        "target": "npm:css-box-model",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/utils",
+        "target": "npm:framesync",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/utils",
+        "target": "npm:lodash.mergewith",
+        "type": "static"
+      }
+    ],
+    "npm:@chakra-ui/visually-hidden": [
+      {
+        "source": "npm:@chakra-ui/visually-hidden",
+        "target": "npm:@chakra-ui/system",
+        "type": "static"
+      },
+      {
+        "source": "npm:@chakra-ui/visually-hidden",
+        "target": "npm:react",
+        "type": "static"
+      }
+    ],
     "npm:@cspotcode/source-map-support": [
       {
         "source": "npm:@cspotcode/source-map-support",
@@ -15402,6 +19053,220 @@
       {
         "source": "npm:debug@3.2.7",
         "target": "npm:ms",
+        "type": "static"
+      }
+    ],
+    "npm:@emotion/babel-plugin": [
+      {
+        "source": "npm:@emotion/babel-plugin",
+        "target": "npm:@babel/helper-module-imports",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/babel-plugin",
+        "target": "npm:@babel/runtime",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/babel-plugin",
+        "target": "npm:@emotion/hash",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/babel-plugin",
+        "target": "npm:@emotion/memoize",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/babel-plugin",
+        "target": "npm:@emotion/serialize",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/babel-plugin",
+        "target": "npm:babel-plugin-macros",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/babel-plugin",
+        "target": "npm:convert-source-map@1.9.0",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/babel-plugin",
+        "target": "npm:escape-string-regexp@4.0.0",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/babel-plugin",
+        "target": "npm:find-root",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/babel-plugin",
+        "target": "npm:source-map@0.5.7",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/babel-plugin",
+        "target": "npm:stylis",
+        "type": "static"
+      }
+    ],
+    "npm:@emotion/cache": [
+      {
+        "source": "npm:@emotion/cache",
+        "target": "npm:@emotion/memoize",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/cache",
+        "target": "npm:@emotion/sheet",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/cache",
+        "target": "npm:@emotion/utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/cache",
+        "target": "npm:@emotion/weak-memoize",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/cache",
+        "target": "npm:stylis",
+        "type": "static"
+      }
+    ],
+    "npm:@emotion/is-prop-valid": [
+      {
+        "source": "npm:@emotion/is-prop-valid",
+        "target": "npm:@emotion/memoize",
+        "type": "static"
+      }
+    ],
+    "npm:@emotion/react": [
+      {
+        "source": "npm:@emotion/react",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/react",
+        "target": "npm:@babel/runtime",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/react",
+        "target": "npm:@emotion/babel-plugin",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/react",
+        "target": "npm:@emotion/cache",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/react",
+        "target": "npm:@emotion/serialize",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/react",
+        "target": "npm:@emotion/use-insertion-effect-with-fallbacks",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/react",
+        "target": "npm:@emotion/utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/react",
+        "target": "npm:@emotion/weak-memoize",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/react",
+        "target": "npm:hoist-non-react-statics",
+        "type": "static"
+      }
+    ],
+    "npm:@emotion/serialize": [
+      {
+        "source": "npm:@emotion/serialize",
+        "target": "npm:@emotion/hash",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/serialize",
+        "target": "npm:@emotion/memoize",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/serialize",
+        "target": "npm:@emotion/unitless",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/serialize",
+        "target": "npm:@emotion/utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/serialize",
+        "target": "npm:csstype",
+        "type": "static"
+      }
+    ],
+    "npm:@emotion/styled": [
+      {
+        "source": "npm:@emotion/styled",
+        "target": "npm:@emotion/react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/styled",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/styled",
+        "target": "npm:@babel/runtime",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/styled",
+        "target": "npm:@emotion/babel-plugin",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/styled",
+        "target": "npm:@emotion/is-prop-valid",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/styled",
+        "target": "npm:@emotion/serialize",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/styled",
+        "target": "npm:@emotion/use-insertion-effect-with-fallbacks",
+        "type": "static"
+      },
+      {
+        "source": "npm:@emotion/styled",
+        "target": "npm:@emotion/utils",
+        "type": "static"
+      }
+    ],
+    "npm:@emotion/use-insertion-effect-with-fallbacks": [
+      {
+        "source": "npm:@emotion/use-insertion-effect-with-fallbacks",
+        "target": "npm:react",
         "type": "static"
       }
     ],
@@ -18143,6 +22008,13 @@
         "type": "static"
       }
     ],
+    "npm:@types/lodash.mergewith": [
+      {
+        "source": "npm:@types/lodash.mergewith",
+        "target": "npm:@types/lodash",
+        "type": "static"
+      }
+    ],
     "npm:@types/node-forge": [
       {
         "source": "npm:@types/node-forge",
@@ -18745,6 +22617,13 @@
         "type": "static"
       }
     ],
+    "npm:@zag-js/focus-visible": [
+      {
+        "source": "npm:@zag-js/focus-visible",
+        "target": "npm:@zag-js/dom-query",
+        "type": "static"
+      }
+    ],
     "npm:@zkochan/js-yaml": [
       {
         "source": "npm:@zkochan/js-yaml",
@@ -18873,6 +22752,13 @@
       {
         "source": "npm:anymatch",
         "target": "npm:picomatch",
+        "type": "static"
+      }
+    ],
+    "npm:aria-hidden": [
+      {
+        "source": "npm:aria-hidden",
+        "target": "npm:tslib",
         "type": "static"
       }
     ],
@@ -19360,6 +23246,50 @@
       {
         "source": "npm:babel-plugin-jest-hoist",
         "target": "npm:@types/babel__traverse",
+        "type": "static"
+      }
+    ],
+    "npm:babel-plugin-macros": [
+      {
+        "source": "npm:babel-plugin-macros",
+        "target": "npm:@babel/runtime",
+        "type": "static"
+      },
+      {
+        "source": "npm:babel-plugin-macros",
+        "target": "npm:cosmiconfig@7.1.0",
+        "type": "static"
+      },
+      {
+        "source": "npm:babel-plugin-macros",
+        "target": "npm:resolve",
+        "type": "static"
+      }
+    ],
+    "npm:cosmiconfig@7.1.0": [
+      {
+        "source": "npm:cosmiconfig@7.1.0",
+        "target": "npm:@types/parse-json",
+        "type": "static"
+      },
+      {
+        "source": "npm:cosmiconfig@7.1.0",
+        "target": "npm:import-fresh",
+        "type": "static"
+      },
+      {
+        "source": "npm:cosmiconfig@7.1.0",
+        "target": "npm:parse-json",
+        "type": "static"
+      },
+      {
+        "source": "npm:cosmiconfig@7.1.0",
+        "target": "npm:path-type",
+        "type": "static"
+      },
+      {
+        "source": "npm:cosmiconfig@7.1.0",
+        "target": "npm:yaml",
         "type": "static"
       }
     ],
@@ -19959,6 +23889,13 @@
         "type": "static"
       }
     ],
+    "npm:copy-to-clipboard": [
+      {
+        "source": "npm:copy-to-clipboard",
+        "target": "npm:toggle-selection",
+        "type": "static"
+      }
+    ],
     "npm:copy-webpack-plugin": [
       {
         "source": "npm:copy-webpack-plugin",
@@ -20081,6 +24018,13 @@
       {
         "source": "npm:cross-spawn",
         "target": "npm:which",
+        "type": "static"
+      }
+    ],
+    "npm:css-box-model": [
+      {
+        "source": "npm:css-box-model",
+        "target": "npm:tiny-invariant",
         "type": "static"
       }
     ],
@@ -20795,6 +24739,13 @@
       {
         "source": "npm:debug",
         "target": "npm:ms",
+        "type": "static"
+      }
+    ],
+    "npm:dedent": [
+      {
+        "source": "npm:dedent",
+        "target": "npm:babel-plugin-macros",
         "type": "static"
       }
     ],
@@ -22959,6 +26910,13 @@
         "type": "static"
       }
     ],
+    "npm:focus-lock": [
+      {
+        "source": "npm:focus-lock",
+        "target": "npm:tslib",
+        "type": "static"
+      }
+    ],
     "npm:for-each": [
       {
         "source": "npm:for-each",
@@ -23050,33 +27008,6 @@
         "type": "static"
       }
     ],
-    "npm:cosmiconfig@7.1.0": [
-      {
-        "source": "npm:cosmiconfig@7.1.0",
-        "target": "npm:@types/parse-json",
-        "type": "static"
-      },
-      {
-        "source": "npm:cosmiconfig@7.1.0",
-        "target": "npm:import-fresh",
-        "type": "static"
-      },
-      {
-        "source": "npm:cosmiconfig@7.1.0",
-        "target": "npm:parse-json",
-        "type": "static"
-      },
-      {
-        "source": "npm:cosmiconfig@7.1.0",
-        "target": "npm:path-type",
-        "type": "static"
-      },
-      {
-        "source": "npm:cosmiconfig@7.1.0",
-        "target": "npm:yaml",
-        "type": "static"
-      }
-    ],
     "npm:fs-extra@10.1.0": [
       {
         "source": "npm:fs-extra@10.1.0",
@@ -23108,6 +27039,35 @@
       {
         "source": "npm:form-data",
         "target": "npm:mime-types",
+        "type": "static"
+      }
+    ],
+    "npm:framer-motion": [
+      {
+        "source": "npm:framer-motion",
+        "target": "npm:@emotion/is-prop-valid",
+        "type": "static"
+      },
+      {
+        "source": "npm:framer-motion",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:framer-motion",
+        "target": "npm:react-dom",
+        "type": "static"
+      },
+      {
+        "source": "npm:framer-motion",
+        "target": "npm:tslib",
+        "type": "static"
+      }
+    ],
+    "npm:framesync": [
+      {
+        "source": "npm:framesync",
+        "target": "npm:tslib@2.4.0",
         "type": "static"
       }
     ],
@@ -23332,6 +27292,13 @@
       {
         "source": "npm:hasown",
         "target": "npm:function-bind",
+        "type": "static"
+      }
+    ],
+    "npm:hoist-non-react-statics": [
+      {
+        "source": "npm:hoist-non-react-statics",
+        "target": "npm:react-is@16.13.1",
         "type": "static"
       }
     ],
@@ -23682,6 +27649,13 @@
       {
         "source": "npm:internal-slot",
         "target": "npm:side-channel",
+        "type": "static"
+      }
+    ],
+    "npm:invariant": [
+      {
+        "source": "npm:invariant",
+        "target": "npm:loose-envify",
         "type": "static"
       }
     ],
@@ -27131,6 +31105,18 @@
         "type": "static"
       }
     ],
+    "npm:react-clientside-effect": [
+      {
+        "source": "npm:react-clientside-effect",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-clientside-effect",
+        "target": "npm:@babel/runtime",
+        "type": "static"
+      }
+    ],
     "npm:react-dom": [
       {
         "source": "npm:react-dom",
@@ -27145,6 +31131,134 @@
       {
         "source": "npm:react-dom",
         "target": "npm:scheduler",
+        "type": "static"
+      }
+    ],
+    "npm:react-focus-lock": [
+      {
+        "source": "npm:react-focus-lock",
+        "target": "npm:@types/react",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-focus-lock",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-focus-lock",
+        "target": "npm:@babel/runtime",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-focus-lock",
+        "target": "npm:focus-lock",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-focus-lock",
+        "target": "npm:prop-types",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-focus-lock",
+        "target": "npm:react-clientside-effect",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-focus-lock",
+        "target": "npm:use-callback-ref",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-focus-lock",
+        "target": "npm:use-sidecar",
+        "type": "static"
+      }
+    ],
+    "npm:react-remove-scroll": [
+      {
+        "source": "npm:react-remove-scroll",
+        "target": "npm:@types/react",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-remove-scroll",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-remove-scroll",
+        "target": "npm:react-remove-scroll-bar",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-remove-scroll",
+        "target": "npm:react-style-singleton",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-remove-scroll",
+        "target": "npm:tslib",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-remove-scroll",
+        "target": "npm:use-callback-ref",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-remove-scroll",
+        "target": "npm:use-sidecar",
+        "type": "static"
+      }
+    ],
+    "npm:react-remove-scroll-bar": [
+      {
+        "source": "npm:react-remove-scroll-bar",
+        "target": "npm:@types/react",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-remove-scroll-bar",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-remove-scroll-bar",
+        "target": "npm:react-style-singleton",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-remove-scroll-bar",
+        "target": "npm:tslib",
+        "type": "static"
+      }
+    ],
+    "npm:react-style-singleton": [
+      {
+        "source": "npm:react-style-singleton",
+        "target": "npm:@types/react",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-style-singleton",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-style-singleton",
+        "target": "npm:get-nonce",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-style-singleton",
+        "target": "npm:invariant",
+        "type": "static"
+      },
+      {
+        "source": "npm:react-style-singleton",
+        "target": "npm:tslib",
         "type": "static"
       }
     ],
@@ -28838,6 +32952,45 @@
       {
         "source": "npm:url-parse",
         "target": "npm:requires-port",
+        "type": "static"
+      }
+    ],
+    "npm:use-callback-ref": [
+      {
+        "source": "npm:use-callback-ref",
+        "target": "npm:@types/react",
+        "type": "static"
+      },
+      {
+        "source": "npm:use-callback-ref",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:use-callback-ref",
+        "target": "npm:tslib",
+        "type": "static"
+      }
+    ],
+    "npm:use-sidecar": [
+      {
+        "source": "npm:use-sidecar",
+        "target": "npm:@types/react",
+        "type": "static"
+      },
+      {
+        "source": "npm:use-sidecar",
+        "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "npm:use-sidecar",
+        "target": "npm:detect-node-es",
+        "type": "static"
+      },
+      {
+        "source": "npm:use-sidecar",
+        "target": "npm:tslib",
         "type": "static"
       }
     ],

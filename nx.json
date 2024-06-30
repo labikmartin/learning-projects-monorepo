@@ -27,7 +27,7 @@
     }
   },
   "installation": {
-    "version": "19.3.0"
+    "version": "19.3.2"
   },
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "defaultBase": "master",

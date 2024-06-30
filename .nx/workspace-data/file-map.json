@@ -1,9 +1,9 @@
 {
   "version": "6.0",
-  "nxVersion": "19.3.0",
+  "nxVersion": "19.3.2",
   "deps": {
     "axios": "^1.6.0",
-    "express": "~4.18.1",
+    "express": "^4.19.2",
     "next": "14.2.3",
     "react": "18.3.1",
     "react-dom": "18.3.1",
@@ -12,15 +12,15 @@
     "@babel/preset-react": "^7.14.5",
     "@eslint/eslintrc": "^2.1.1",
     "@eslint/js": "~8.57.0",
-    "@nx/cypress": "19.3.0",
-    "@nx/esbuild": "19.3.0",
-    "@nx/eslint": "19.3.0",
-    "@nx/eslint-plugin": "19.3.0",
-    "@nx/jest": "19.3.0",
-    "@nx/js": "19.3.0",
-    "@nx/next": "19.3.0",
-    "@nx/node": "19.3.0",
-    "@nx/react": "19.3.0",
+    "@nx/cypress": "19.3.2",
+    "@nx/esbuild": "19.3.2",
+    "@nx/eslint": "19.3.2",
+    "@nx/eslint-plugin": "19.3.2",
+    "@nx/jest": "19.3.2",
+    "@nx/js": "19.3.2",
+    "@nx/next": "19.3.2",
+    "@nx/node": "19.3.2",
+    "@nx/react": "19.3.2",
     "@swc-node/register": "1.9.2",
     "@swc/core": "1.5.7",
     "@swc/helpers": "0.5.11",
@@ -47,7 +47,7 @@
     "jest": "^29.4.1",
     "jest-environment-jsdom": "^29.4.1",
     "jest-environment-node": "^29.4.1",
-    "nx": "19.3.0",
+    "nx": "19.3.2",
     "prettier": "^2.6.2",
     "sass": "1.62.1",
     "ts-jest": "^29.1.0",
@@ -100,48 +100,6 @@
   "fileMap": {
     "nonProjectFiles": [],
     "projectFileMap": {
-      "helpers": [
-        {
-          "file": "libs/common/helpers/.babelrc",
-          "hash": "2946678488919325452"
-        },
-        {
-          "file": "libs/common/helpers/README.md",
-          "hash": "7988955941586324043"
-        },
-        {
-          "file": "libs/common/helpers/eslint.config.js",
-          "hash": "9571881112407037283",
-          "deps": [
-            "npm:@eslint/eslintrc",
-            "npm:@eslint/js"
-          ]
-        },
-        {
-          "file": "libs/common/helpers/jest.config.ts",
-          "hash": "869432551466955451"
-        },
-        {
-          "file": "libs/common/helpers/project.json",
-          "hash": "6067395492443865941"
-        },
-        {
-          "file": "libs/common/helpers/src/index.ts",
-          "hash": "3244421341483603138"
-        },
-        {
-          "file": "libs/common/helpers/tsconfig.json",
-          "hash": "5803453740373313970"
-        },
-        {
-          "file": "libs/common/helpers/tsconfig.lib.json",
-          "hash": "12782505187182166395"
-        },
-        {
-          "file": "libs/common/helpers/tsconfig.spec.json",
-          "hash": "622485232520597903"
-        }
-      ],
       "recipes-app": [
         {
           "file": "apps/recipes-app/.babelrc",
@@ -230,190 +188,17 @@
           "hash": "6922413205408300107"
         }
       ],
-      "eshop-express-app": [
+      "helpers": [
         {
-          "file": "apps/eshop-express-app/Dockerfile",
-          "hash": "6849115868465066401"
-        },
-        {
-          "file": "apps/eshop-express-app/eslint.config.js",
-          "hash": "5455893721597667333"
-        },
-        {
-          "file": "apps/eshop-express-app/jest.config.ts",
-          "hash": "8981875351570576028"
-        },
-        {
-          "file": "apps/eshop-express-app/project.json",
-          "hash": "16049542099515156322"
-        },
-        {
-          "file": "apps/eshop-express-app/src/assets/.gitkeep",
-          "hash": "3244421341483603138"
-        },
-        {
-          "file": "apps/eshop-express-app/src/main.ts",
-          "hash": "2565255746684099893",
-          "deps": [
-            "npm:express"
-          ]
-        },
-        {
-          "file": "apps/eshop-express-app/tsconfig.app.json",
-          "hash": "1558509971940032459"
-        },
-        {
-          "file": "apps/eshop-express-app/tsconfig.json",
-          "hash": "3490524966360018312"
-        },
-        {
-          "file": "apps/eshop-express-app/tsconfig.spec.json",
-          "hash": "11550347367511341917"
-        }
-      ],
-      "learning": [
-        {
-          "file": ".gitignore",
-          "hash": "14121564091820241025"
-        },
-        {
-          "file": ".nx/nxw.js",
-          "hash": "11254603345854076312"
-        },
-        {
-          "file": ".prettierignore",
-          "hash": "16448050467312557263"
-        },
-        {
-          "file": ".prettierrc",
-          "hash": "9555875142989992828"
-        },
-        {
-          "file": ".vscode/extensions.json",
-          "hash": "4934098906304722861"
-        },
-        {
-          "file": "README.md",
-          "hash": "10122824619245518576"
-        },
-        {
-          "file": "eslint.config.js",
-          "hash": "12764037709106670910",
-          "deps": [
-            "npm:@eslint/eslintrc",
-            "npm:@nx/eslint-plugin",
-            "npm:eslint-plugin-simple-import-sort",
-            "npm:@eslint/js",
-            "npm:eslint-plugin-jsx-a11y"
-          ]
-        },
-        {
-          "file": "jest.config.ts",
-          "hash": "3494843969422251966",
-          "deps": [
-            "npm:@nx/jest"
-          ]
-        },
-        {
-          "file": "jest.preset.js",
-          "hash": "9430166341120122740",
-          "deps": [
-            "npm:@nx/jest"
-          ]
-        },
-        {
-          "file": "migrations.json",
-          "hash": "8445159796584750611"
-        },
-        {
-          "file": "nx",
-          "hash": "17165975525224888679"
-        },
-        {
-          "file": "nx.bat",
-          "hash": "16828809655253213278"
-        },
-        {
-          "file": "nx.json",
-          "hash": "12750995649764616271"
-        },
-        {
-          "file": "package-lock.json",
-          "hash": "3694291187326936198"
-        },
-        {
-          "file": "package.json",
-          "hash": "6465760770290501052",
-          "deps": [
-            "npm:@babel/core",
-            "npm:@babel/preset-react",
-            "npm:@eslint/eslintrc",
-            "npm:@eslint/js",
-            "npm:@nx/cypress",
-            "npm:@nx/esbuild",
-            "npm:@nx/eslint",
-            "npm:@nx/eslint-plugin",
-            "npm:@nx/jest",
-            "npm:@nx/js",
-            "npm:@nx/next",
-            "npm:@nx/node",
-            "npm:@nx/react",
-            "npm:@swc-node/register",
-            "npm:@swc/core",
-            "npm:@swc/helpers",
-            "npm:@testing-library/react",
-            "npm:@types/express",
-            "npm:@types/jest",
-            "npm:@types/node",
-            "npm:@types/react",
-            "npm:@types/react-dom",
-            "npm:@typescript-eslint/eslint-plugin",
-            "npm:@typescript-eslint/parser",
-            "npm:babel-jest",
-            "npm:cypress",
-            "npm:esbuild",
-            "npm:eslint",
-            "npm:eslint-config-next",
-            "npm:eslint-config-prettier",
-            "npm:eslint-plugin-cypress",
-            "npm:eslint-plugin-import",
-            "npm:eslint-plugin-jsx-a11y",
-            "npm:eslint-plugin-react",
-            "npm:eslint-plugin-react-hooks",
-            "npm:eslint-plugin-simple-import-sort",
-            "npm:jest",
-            "npm:jest-environment-jsdom",
-            "npm:jest-environment-node",
-            "npm:nx",
-            "npm:prettier",
-            "npm:sass",
-            "npm:ts-jest",
-            "npm:ts-node",
-            "npm:typescript",
-            "npm:axios",
-            "npm:express",
-            "npm:next",
-            "npm:react",
-            "npm:react-dom",
-            "npm:tslib"
-          ]
-        },
-        {
-          "file": "tsconfig.base.json",
-          "hash": "2904614865620916354"
-        }
-      ],
-      "ui-react-components": [
-        {
-          "file": "libs/ui/react-components/.babelrc",
+          "file": "libs/common/helpers/.babelrc",
           "hash": "2946678488919325452"
         },
         {
-          "file": "libs/ui/react-components/README.md",
-          "hash": "13932437400343071202"
+          "file": "libs/common/helpers/README.md",
+          "hash": "7988955941586324043"
         },
         {
-          "file": "libs/ui/react-components/eslint.config.js",
+          "file": "libs/common/helpers/eslint.config.js",
           "hash": "9571881112407037283",
           "deps": [
             "npm:@eslint/eslintrc",
@@ -421,43 +206,72 @@
           ]
         },
         {
-          "file": "libs/ui/react-components/jest.config.ts",
-          "hash": "17634732779231366058"
+          "file": "libs/common/helpers/jest.config.ts",
+          "hash": "869432551466955451"
         },
         {
-          "file": "libs/ui/react-components/project.json",
-          "hash": "14860167226044339494"
+          "file": "libs/common/helpers/project.json",
+          "hash": "6067395492443865941"
         },
         {
-          "file": "libs/ui/react-components/src/index.ts",
-          "hash": "18420660528022137583"
+          "file": "libs/common/helpers/src/index.ts",
+          "hash": "3244421341483603138"
         },
         {
-          "file": "libs/ui/react-components/src/lib/react-components.module.scss",
-          "hash": "125145030238681982"
-        },
-        {
-          "file": "libs/ui/react-components/src/lib/react-components.spec.tsx",
-          "hash": "15511296109517016905",
-          "deps": [
-            "npm:@testing-library/react"
-          ]
-        },
-        {
-          "file": "libs/ui/react-components/src/lib/react-components.tsx",
-          "hash": "13859825415206892711"
-        },
-        {
-          "file": "libs/ui/react-components/tsconfig.json",
+          "file": "libs/common/helpers/tsconfig.json",
           "hash": "5803453740373313970"
         },
         {
-          "file": "libs/ui/react-components/tsconfig.lib.json",
+          "file": "libs/common/helpers/tsconfig.lib.json",
           "hash": "12782505187182166395"
         },
         {
-          "file": "libs/ui/react-components/tsconfig.spec.json",
+          "file": "libs/common/helpers/tsconfig.spec.json",
           "hash": "622485232520597903"
+        }
+      ],
+      "eshop-express-app-e2e": [
+        {
+          "file": "apps/eshop-express-app-e2e/eslint.config.js",
+          "hash": "5455893721597667333"
+        },
+        {
+          "file": "apps/eshop-express-app-e2e/jest.config.ts",
+          "hash": "12880494845377809562"
+        },
+        {
+          "file": "apps/eshop-express-app-e2e/project.json",
+          "hash": "17214572307897977186"
+        },
+        {
+          "file": "apps/eshop-express-app-e2e/src/eshop-express-app/eshop-express-app.spec.ts",
+          "hash": "4579662685003779048",
+          "deps": [
+            "npm:axios"
+          ]
+        },
+        {
+          "file": "apps/eshop-express-app-e2e/src/support/global-setup.ts",
+          "hash": "2568409276037275290"
+        },
+        {
+          "file": "apps/eshop-express-app-e2e/src/support/global-teardown.ts",
+          "hash": "5275447082211835490"
+        },
+        {
+          "file": "apps/eshop-express-app-e2e/src/support/test-setup.ts",
+          "hash": "9333493833280919357",
+          "deps": [
+            "npm:axios"
+          ]
+        },
+        {
+          "file": "apps/eshop-express-app-e2e/tsconfig.json",
+          "hash": "15443990093475294480"
+        },
+        {
+          "file": "apps/eshop-express-app-e2e/tsconfig.spec.json",
+          "hash": "14954872453723519891"
         }
       ],
       "ui-recipes-app-components": [
@@ -517,50 +331,6 @@
           "hash": "873295446410179192"
         }
       ],
-      "eshop-express-app-e2e": [
-        {
-          "file": "apps/eshop-express-app-e2e/eslint.config.js",
-          "hash": "5455893721597667333"
-        },
-        {
-          "file": "apps/eshop-express-app-e2e/jest.config.ts",
-          "hash": "12880494845377809562"
-        },
-        {
-          "file": "apps/eshop-express-app-e2e/project.json",
-          "hash": "17214572307897977186"
-        },
-        {
-          "file": "apps/eshop-express-app-e2e/src/eshop-express-app/eshop-express-app.spec.ts",
-          "hash": "4579662685003779048",
-          "deps": [
-            "npm:axios"
-          ]
-        },
-        {
-          "file": "apps/eshop-express-app-e2e/src/support/global-setup.ts",
-          "hash": "2568409276037275290"
-        },
-        {
-          "file": "apps/eshop-express-app-e2e/src/support/global-teardown.ts",
-          "hash": "5275447082211835490"
-        },
-        {
-          "file": "apps/eshop-express-app-e2e/src/support/test-setup.ts",
-          "hash": "9333493833280919357",
-          "deps": [
-            "npm:axios"
-          ]
-        },
-        {
-          "file": "apps/eshop-express-app-e2e/tsconfig.json",
-          "hash": "15443990093475294480"
-        },
-        {
-          "file": "apps/eshop-express-app-e2e/tsconfig.spec.json",
-          "hash": "14954872453723519891"
-        }
-      ],
       "recipes-app-e2e": [
         {
           "file": "apps/recipes-app-e2e/cypress.config.ts",
@@ -605,6 +375,235 @@
         {
           "file": "apps/recipes-app-e2e/tsconfig.json",
           "hash": "10740392072068377465"
+        }
+      ],
+      "eshop-express-app": [
+        {
+          "file": "apps/eshop-express-app/Dockerfile",
+          "hash": "6849115868465066401"
+        },
+        {
+          "file": "apps/eshop-express-app/eslint.config.js",
+          "hash": "5455893721597667333"
+        },
+        {
+          "file": "apps/eshop-express-app/jest.config.ts",
+          "hash": "8981875351570576028"
+        },
+        {
+          "file": "apps/eshop-express-app/project.json",
+          "hash": "16049542099515156322"
+        },
+        {
+          "file": "apps/eshop-express-app/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/eshop-express-app/src/main.ts",
+          "hash": "2565255746684099893",
+          "deps": [
+            "npm:express"
+          ]
+        },
+        {
+          "file": "apps/eshop-express-app/tsconfig.app.json",
+          "hash": "1558509971940032459"
+        },
+        {
+          "file": "apps/eshop-express-app/tsconfig.json",
+          "hash": "3490524966360018312"
+        },
+        {
+          "file": "apps/eshop-express-app/tsconfig.spec.json",
+          "hash": "11550347367511341917"
+        }
+      ],
+      "ui-react-components": [
+        {
+          "file": "libs/ui/react-components/.babelrc",
+          "hash": "2946678488919325452"
+        },
+        {
+          "file": "libs/ui/react-components/README.md",
+          "hash": "13932437400343071202"
+        },
+        {
+          "file": "libs/ui/react-components/eslint.config.js",
+          "hash": "9571881112407037283",
+          "deps": [
+            "npm:@eslint/eslintrc",
+            "npm:@eslint/js"
+          ]
+        },
+        {
+          "file": "libs/ui/react-components/jest.config.ts",
+          "hash": "17634732779231366058"
+        },
+        {
+          "file": "libs/ui/react-components/project.json",
+          "hash": "14860167226044339494"
+        },
+        {
+          "file": "libs/ui/react-components/src/index.ts",
+          "hash": "18420660528022137583"
+        },
+        {
+          "file": "libs/ui/react-components/src/lib/react-components.module.scss",
+          "hash": "125145030238681982"
+        },
+        {
+          "file": "libs/ui/react-components/src/lib/react-components.spec.tsx",
+          "hash": "15511296109517016905",
+          "deps": [
+            "npm:@testing-library/react"
+          ]
+        },
+        {
+          "file": "libs/ui/react-components/src/lib/react-components.tsx",
+          "hash": "13859825415206892711"
+        },
+        {
+          "file": "libs/ui/react-components/tsconfig.json",
+          "hash": "5803453740373313970"
+        },
+        {
+          "file": "libs/ui/react-components/tsconfig.lib.json",
+          "hash": "12782505187182166395"
+        },
+        {
+          "file": "libs/ui/react-components/tsconfig.spec.json",
+          "hash": "622485232520597903"
+        }
+      ],
+      "learning": [
+        {
+          "file": ".gitignore",
+          "hash": "14556144037634736453"
+        },
+        {
+          "file": ".nx/nxw.js",
+          "hash": "11254603345854076312"
+        },
+        {
+          "file": ".prettierignore",
+          "hash": "14688272390704683536"
+        },
+        {
+          "file": ".prettierrc",
+          "hash": "9555875142989992828"
+        },
+        {
+          "file": ".vscode/extensions.json",
+          "hash": "4934098906304722861"
+        },
+        {
+          "file": "README.md",
+          "hash": "10122824619245518576"
+        },
+        {
+          "file": "eslint.config.js",
+          "hash": "12764037709106670910",
+          "deps": [
+            "npm:@eslint/eslintrc",
+            "npm:eslint-plugin-simple-import-sort",
+            "npm:@eslint/js",
+            "npm:eslint-plugin-jsx-a11y"
+          ]
+        },
+        {
+          "file": "jest.config.ts",
+          "hash": "3494843969422251966",
+          "deps": [
+            "npm:@nx/jest"
+          ]
+        },
+        {
+          "file": "jest.preset.js",
+          "hash": "9430166341120122740",
+          "deps": [
+            "npm:@nx/jest"
+          ]
+        },
+        {
+          "file": "migrations.json",
+          "hash": "8445159796584750611"
+        },
+        {
+          "file": "nx",
+          "hash": "17165975525224888679"
+        },
+        {
+          "file": "nx.bat",
+          "hash": "16828809655253213278"
+        },
+        {
+          "file": "nx.json",
+          "hash": "4124434750786959908"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "2834669483139653905"
+        },
+        {
+          "file": "package.json",
+          "hash": "7786305638107769077",
+          "deps": [
+            "npm:@babel/core",
+            "npm:@babel/preset-react",
+            "npm:@eslint/eslintrc",
+            "npm:@eslint/js",
+            "npm:@nx/cypress",
+            "npm:@nx/esbuild",
+            "npm:@nx/eslint",
+            "npm:@nx/eslint-plugin",
+            "npm:@nx/jest",
+            "npm:@nx/js",
+            "npm:@nx/next",
+            "npm:@nx/node",
+            "npm:@nx/react",
+            "npm:@swc-node/register",
+            "npm:@swc/core",
+            "npm:@swc/helpers",
+            "npm:@testing-library/react",
+            "npm:@types/express",
+            "npm:@types/jest",
+            "npm:@types/node",
+            "npm:@types/react",
+            "npm:@types/react-dom",
+            "npm:@typescript-eslint/eslint-plugin",
+            "npm:@typescript-eslint/parser",
+            "npm:babel-jest",
+            "npm:cypress",
+            "npm:esbuild",
+            "npm:eslint",
+            "npm:eslint-config-next",
+            "npm:eslint-config-prettier",
+            "npm:eslint-plugin-cypress",
+            "npm:eslint-plugin-import",
+            "npm:eslint-plugin-jsx-a11y",
+            "npm:eslint-plugin-react",
+            "npm:eslint-plugin-react-hooks",
+            "npm:eslint-plugin-simple-import-sort",
+            "npm:jest",
+            "npm:jest-environment-jsdom",
+            "npm:jest-environment-node",
+            "npm:nx",
+            "npm:prettier",
+            "npm:sass",
+            "npm:ts-jest",
+            "npm:ts-node",
+            "npm:typescript",
+            "npm:axios",
+            "npm:express",
+            "npm:next",
+            "npm:react",
+            "npm:react-dom",
+            "npm:tslib"
+          ]
+        },
+        {
+          "file": "tsconfig.base.json",
+          "hash": "2904614865620916354"
         }
       ]
     }

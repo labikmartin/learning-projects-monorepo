@@ -2,16 +2,7 @@ import { ReactComponents } from '@learning/libs/ui/react-components';
 
 import styles from './page.module.scss';
 
-export default function Index() {
-  /*
-   * Replace the elements below with your own.
-   *
-   * Note: The corresponding styles are in the ./index.scss file.
-   */
-  function test(params: unknown) {
-    console.log('yolo');
-  }
-
+export default async function Index() {
   return (
     <div className={styles.page}>
       <div className="wrapper">

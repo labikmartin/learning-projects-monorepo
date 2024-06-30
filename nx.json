@@ -2,9 +2,7 @@
   "targetDefaults": {
     "build": {
       "cache": true,
-      "dependsOn": [
-        "^build"
-      ]
+      "dependsOn": ["^build"]
     },
     "lint": {
       "cache": true
@@ -17,17 +15,12 @@
     },
     "@nx/esbuild:esbuild": {
       "cache": true,
-      "dependsOn": [
-        "^build"
-      ],
-      "inputs": [
-        "default",
-        "^default"
-      ]
+      "dependsOn": ["^build"],
+      "inputs": ["default", "^default"]
     }
   },
   "installation": {
-    "version": "19.3.0"
+    "version": "19.3.2"
   },
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "defaultBase": "master",

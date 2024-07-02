@@ -16,13 +16,13 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@learning/common/helpers": ["libs/common/helpers/src/index.ts"],
-      "@learning/libs/ui/react-components": [
-        "libs/ui/react-components/src/index.ts"
+      "@libs/common/constants": ["libs/common/constants/src/index.ts"],
+      "@libs/common/helpers": ["libs/common/helpers/src/index.ts"],
+      "@libs/common/react-components": [
+        "libs/common/react-components/src/index.ts"
       ],
-      "@learning/libs/ui/recipes-app/components": [
-        "libs/ui/recipes-app/components/src/index.ts"
-      ]
+      "@libs/common/types": ["libs/common/types/src/index.ts"],
+      "@libs/recipes-lib": ["libs/recipes-lib/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

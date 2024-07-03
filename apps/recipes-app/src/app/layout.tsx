@@ -1,4 +1,5 @@
 import { ColorModeScript } from '@chakra-ui/react';
+import { MainNavigation } from '@libs/recipes-lib';
 
 import { Providers } from './providers';
 import { theme } from './theme';
@@ -12,6 +13,7 @@ export const metadata = {
 
 export default function RootLayout({
   children,
+  params,
 }: {
   children: React.ReactNode;
 }) {
@@ -19,7 +21,10 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <ColorModeScript initialColorMode={theme.config.initialColorMode} />
-        <Providers>{children}</Providers>
+        <Providers>
+          <MainNavigation />
+          {children}
+        </Providers>
       </body>
     </html>
   );

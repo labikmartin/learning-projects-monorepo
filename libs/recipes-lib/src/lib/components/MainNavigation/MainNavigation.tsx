@@ -9,17 +9,16 @@ import {
   GridItem,
   HStack,
   Image,
-  TabList,
   Text,
   useColorModeValue,
 } from '@chakra-ui/react';
-import { Card, CardBody, Tab, Tabs } from '@chakra-ui/react';
+import { Card, CardBody } from '@chakra-ui/react';
 import { ToggleColorModeButton } from '@libs/common/react-components';
 
-import { Logo } from '../assets/';
-import { navigationLinks } from '../constants';
-import { baseColorTheme } from '../constants/theme';
-import { getThemeColorTint } from '../helpers/theme/getThemeColorTint';
+import { Logo } from '../../assets';
+import { navigationLinks } from '../../constants';
+import { getThemeColorTint } from '../../helpers/theme/getThemeColorTint';
+import { NavigationTabs } from '..';
 
 export function MainNavigation() {
   const pathname = usePathname();
@@ -29,33 +28,33 @@ export function MainNavigation() {
     undefined,
   );
 
-  const activetabIndex = navigationLinks.findIndex(
-    (link) => link.href === pathname,
+  const activeTabIndex = navigationLinks.findIndex((link) =>
+    pathname.includes(link.href),
   );
 
   return (
     <Flex justify="center" paddingY={3}>
       <Card
-        size="sm"
-        flexBasis="80%"
-        position="sticky"
         backdropFilter="blur(10px)"
         backgroundColor={navigationBackgroundColor}
+        flexBasis="80%"
+        position="sticky"
+        size="sm"
       >
         <CardBody>
-          <Grid templateColumns="auto 1fr auto" alignItems="center">
+          <Grid alignItems="center" templateColumns="auto 1fr auto">
             <GridItem>
               <NextLink href="/">
                 <HStack spacing={3}>
                   <Image
-                    as={NextImage}
-                    src={Logo}
-                    alt="Foodo Logo"
-                    width={50}
-                    height={50}
-                    borderRadius={6}
                     priority
+                    alt="Foodo Logo"
+                    as={NextImage}
+                    borderRadius={6}
+                    height={50}
                     sizes="50px"
+                    src={Logo}
+                    width={50}
                   />
                   <Text fontSize="xl" fontWeight="bold">
                     Foodo
@@ -64,26 +63,10 @@ export function MainNavigation() {
               </NextLink>
             </GridItem>
             <GridItem justifySelf="center">
-              <Tabs
-                variant="soft-rounded"
-                colorScheme={baseColorTheme}
-                as="nav"
-                justifySelf="center"
-                index={activetabIndex}
-              >
-                <TabList>
-                  {navigationLinks.map((link) => (
-                    <Tab
-                      key={link.href}
-                      as={NextLink}
-                      href={link.href}
-                      boxShadow="none !important"
-                    >
-                      {link.label}
-                    </Tab>
-                  ))}
-                </TabList>
-              </Tabs>
+              <NavigationTabs
+                activeTabIndex={activeTabIndex}
+                navigationLinks={navigationLinks}
+              />
             </GridItem>
             <GridItem>
               <ToggleColorModeButton />

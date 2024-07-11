@@ -2,17 +2,15 @@ import NextImage from 'next/image';
 import { Box, Flex, Heading, Image, Text } from '@chakra-ui/react';
 import { Logo } from '@libs/recipes-lib';
 
-import styles from './page.module.scss';
-
-export default async function Index({ params }) {
+export default async function Index() {
   return (
-    <Flex as="main" direction="column" alignItems="center">
-      <Flex width="90%" gap={100} marginTop={20}>
-        <Box overflow="hidden" width="xl" rounded="md" boxShadow="dark-lg">
-          <Image as={NextImage} src={Logo as unknown as string} alt="img" />
+    <Flex alignItems="center" as="main" direction="column">
+      <Flex gap={100} marginTop={20} width="90%">
+        <Box boxShadow="dark-lg" overflow="hidden" rounded="md" width="xl">
+          <Image alt="img" as={NextImage} src={Logo as unknown as string} />
         </Box>
         <Box>
-          <Heading as="h1" size="3xl" color="orange.300" marginTop={10}>
+          <Heading as="h1" color="orange.300" marginTop={10} size="3xl">
             Ultra Mega Food. <br />
             Because YOLO!
           </Heading>

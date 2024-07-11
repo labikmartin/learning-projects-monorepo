@@ -1,5 +1,7 @@
-export const navigationLinks = [
-  { label: 'Food', href: '/food' },
-  { label: 'Share', href: '/food/share' },
-  { label: 'Community', href: '/community' },
+import { type NavigationTabLink } from '../components/NavigationTabs/types';
+
+export const navigationLinks: NavigationTabLink[] = [
+  { href: '/food', label: 'Food' },
+  { href: '/food/share', label: 'Share' },
+  { href: '/community', label: 'Community' },
 ];

@@ -13,4 +13,4 @@ tmp/
 # Next.js
 .next
 out
-
+.env.local

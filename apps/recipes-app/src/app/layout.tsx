@@ -1,5 +1,9 @@
-import { ColorModeScript } from '@chakra-ui/react';
-import { MainNavigation } from '@libs/recipes-lib';
+import { ColorModeScript, Grid, GridItem } from '@chakra-ui/react';
+import {
+  ContentContainer,
+  ContentContainerItem,
+  MainNavigation,
+} from '@libs/recipes-lib';
 
 import { Providers } from './providers';
 import { theme } from './theme';
@@ -17,12 +21,29 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
-      <body>
+    <html lang="en" style={{ height: '100%' }}>
+      <body style={{ height: '100%' }}>
         <ColorModeScript initialColorMode={theme.config.initialColorMode} />
         <Providers>
-          <MainNavigation />
-          {children}
+          <ContentContainer
+            minHeight="100%"
+            templateAreas={`"navigation"
+                  "main"
+                  "footer"`}
+            templateRows="auto 1fr auto"
+          >
+            <ContentContainerItem gridArea="navigation" gridColumn="breakout">
+              <MainNavigation />
+            </ContentContainerItem>
+            <ContentContainerItem gridArea="main" gridColumn="page-content">
+              {children}
+            </ContentContainerItem>
+            <ContentContainer gridArea="footer" gridColumn="full-width">
+              <ContentContainerItem gridColumn="page-content">
+                This is Footer
+              </ContentContainerItem>
+            </ContentContainer>
+          </ContentContainer>
         </Providers>
       </body>
     </html>

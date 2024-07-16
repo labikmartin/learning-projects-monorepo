@@ -8,8 +8,8 @@ const compat = new FlatCompat({
 });
 
 module.exports = [
-  ...baseConfig,
   ...compat.extends('plugin:@nx/react'),
+  ...baseConfig,
   {
     files: ['**/*.ts', '**/*.tsx', '**/*.js', '**/*.jsx'],
     rules: {},

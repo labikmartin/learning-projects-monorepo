@@ -5,6 +5,7 @@ const js = require('@eslint/js');
 const eslintPluginJsxA11y = require('eslint-plugin-jsx-a11y');
 const eslintPluginReact = require('eslint-plugin-react');
 const eslintPluginSortDestructureKeys = require('eslint-plugin-sort-destructure-keys');
+const typescriptPlugin = require('@typescript-eslint/eslint-plugin');
 
 const compat = new FlatCompat({
   baseDirectory: __dirname,
@@ -13,14 +14,13 @@ const compat = new FlatCompat({
 
 module.exports = [
   {
+    files: ['**/*.ts', '**/*.tsx', '**/*.js', '**/*.jsx'],
     plugins: {
       '@nx': nxEslintPlugin,
+      '@typescript-eslint': typescriptPlugin,
       'simple-import-sort': eslintPluginSimpleImportSort,
       'sort-destructure-keys': eslintPluginSortDestructureKeys,
     },
-  },
-  {
-    files: ['**/*.ts', '**/*.tsx', '**/*.js', '**/*.jsx'],
     rules: {
       '@/sort-keys': 'warn',
       '@nx/enforce-module-boundaries': [
@@ -34,6 +34,14 @@ module.exports = [
             },
           ],
           enforceBuildableLibDependency: true,
+        },
+      ],
+      '@typescript-eslint/no-unused-vars': [
+        'warn',
+        {
+          argsIgnorePattern: '^_',
+          caughtErrorsIgnorePattern: '^_',
+          varsIgnorePattern: '^_',
         },
       ],
       'react-hooks/exhaustive-deps': 'off',

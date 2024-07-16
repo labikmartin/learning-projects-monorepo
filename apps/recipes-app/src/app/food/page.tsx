@@ -9,6 +9,8 @@ import {
   Stack,
   Text,
 } from '@chakra-ui/react';
+import { asyncTryCatch } from '@libs/common/helpers';
+import { Food } from '@libs/recipes-lib';
 
 import { getFoodList } from '../../db/api';
 
@@ -50,12 +52,12 @@ const FoodItem = ({
 );
 
 export default async function FoodListingPage() {
-  const foodList = (await getFoodList()) as Record<string, string>[];
+  const [foodList] = await asyncTryCatch(getFoodList() as Promise<Food[]>);
 
   return (
     <div>
       <Flex gap={15} justify="center" wrap="wrap">
-        {foodList.map((foodItem) => (
+        {foodList?.map((foodItem) => (
           <FoodItem key={foodItem.title} {...foodItem} />
         ))}
       </Flex>

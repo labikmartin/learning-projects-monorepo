@@ -28,9 +28,10 @@ export function MainNavigation() {
     undefined,
   );
 
-  const activeTabIndex = navigationLinks.findIndex((link) =>
-    pathname.includes(link.href),
-  );
+  const isStaticPath = !!navigationLinks.some((link) => pathname === link.href);
+  const activeTabIndex = isStaticPath
+    ? navigationLinks.findIndex((link) => pathname === link.href)
+    : navigationLinks.findIndex((link) => pathname.includes(link.href));
 
   return (
     <Flex justify="center" paddingY={3}>

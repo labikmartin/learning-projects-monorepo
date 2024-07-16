@@ -5,7 +5,7 @@ import { Logo } from '@libs/recipes-lib';
 export default async function Index() {
   return (
     <Flex alignItems="center" as="main" direction="column">
-      <Flex gap={100} marginTop={20} width="90%">
+      <Flex gap={100} marginTop={20}>
         <Box boxShadow="dark-lg" overflow="hidden" rounded="md" width="xl">
           <Image alt="img" as={NextImage} src={Logo as unknown as string} />
         </Box>

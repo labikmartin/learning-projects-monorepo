@@ -8,8 +8,6 @@ import styles from './react-components.module.scss';
 export interface ReactComponentsProps {}
 
 export function ReactComponents(props: ReactComponentsProps) {
-  const [_e, a] = [1, 2];
-
   return (
     <div className={styles['container']}>
       <ToggleColorModeButton />

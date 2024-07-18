@@ -1,4 +1,4 @@
-import { ColorModeScript, Grid, GridItem } from '@chakra-ui/react';
+import { ColorModeScript } from '@chakra-ui/react';
 import {
   ContentContainer,
   ContentContainerItem,

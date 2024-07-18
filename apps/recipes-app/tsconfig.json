@@ -26,8 +26,7 @@
     "../../apps/recipes-app/.next/types/**/*.ts",
     "../../dist/apps/recipes-app/.next/types/**/*.ts",
     "next-env.d.ts",
-    ".next/types/**/*.ts",
-    "../../libs/recipes-lib/src/lib/components/DeleteButton/DeleteButton.tsx"
+    ".next/types/**/*.ts"
   ],
   "exclude": ["node_modules", "jest.config.ts", "**/*.spec.ts", "**/*.test.ts"]
 }

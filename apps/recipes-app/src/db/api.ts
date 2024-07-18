@@ -36,8 +36,23 @@ export async function deleteByFoodId(id: string) {
 }
 
 export async function saveFood(data: FoodFormData) {
-  const slug = slugify(data.title, { lower: true });
-  const imageName = `${slug}_${uuidv4()}`;
+  const slugIfiedTitle = slugify(data.title, { lower: true });
+
+  const slugCount = (
+    db
+      .prepare('SELECT COUNT(*) FROM food WHERE slug = ?')
+      .get(slugIfiedTitle) as { 'COUNT(*)': number }
+  )['COUNT(*)'];
+
+  const lastRowId = (
+    db.prepare('SELECT MAX(id) FROM food').get() as {
+      'MAX(id)': number;
+    }
+  )['MAX(id)'];
+
+  const nextId = lastRowId + 1;
+  const slug = slugCount === 0 ? slugIfiedTitle : `${slugIfiedTitle}-${nextId}`;
+  const imageName = `${slugIfiedTitle}_${uuidv4()}`;
   const extension = data.image.name.split('.').pop() as string;
   const imageNameWithExtension = `${imageName}.${extension}`;
 
@@ -49,7 +64,10 @@ export async function saveFood(data: FoodFormData) {
   } as Food;
 
   const insert = db.prepare(
-    'INSERT INTO food (author, author_email, description, image, instructions, slug, title) VALUES (@author, @author_email, @description, @image, @instructions, @slug, @title)',
+    `INSERT INTO food
+      (author, author_email, description, image, instructions, slug, title)
+    VALUES
+      (@author, @author_email, @description, @image, @instructions, @slug, @title)`,
   );
   const insertStatement = insert.run(newFood);
   const changes = insertStatement.changes;

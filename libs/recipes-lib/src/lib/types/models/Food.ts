@@ -4,5 +4,10 @@ export interface Food {
   id: string;
   image: string;
   instructions: string;
+  slug: string;
   title: string;
 }
+
+export type FoodFormData = Omit<Food, 'slug'> & {
+  image: File;
+};

@@ -23,7 +23,7 @@ export async function getFoodBySlug(slug: string) {
 }
 
 export async function deleteByFoodId(id: string) {
-  const food = (await getFoodById(id)) as unknown as Food;
+  const food = (await getFoodById(id)) as Food;
   const image = food.image;
   const rootDir = process.cwd();
   const imageDir = `${rootDir}/public/images`;

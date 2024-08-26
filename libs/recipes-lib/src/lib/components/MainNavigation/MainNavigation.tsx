@@ -54,7 +54,7 @@ export function MainNavigation() {
                     borderRadius={6}
                     height={50}
                     sizes="50px"
-                    src={Logo}
+                    src={Logo as unknown as string}
                     width={50}
                   />
                   <Text fontSize="xl" fontWeight="bold">

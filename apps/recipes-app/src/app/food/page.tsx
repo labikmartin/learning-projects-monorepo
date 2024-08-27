@@ -63,8 +63,6 @@ const FoodItem = ({
   );
 };
 
-export const dynamic = 'force-dynamic';
-
 export default async function FoodListingPage() {
   const [foodList] = await asyncTryCatch(getFoodList() as Promise<Food[]>);
 

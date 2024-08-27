@@ -1,3 +1,4 @@
+import { revalidatePath } from 'next/cache';
 import { Flex, Heading, Text } from '@chakra-ui/react';
 import { asyncTryCatch, getFormDataObject } from '@libs/common/helpers';
 import { FoodFormData } from '@libs/recipes-lib';
@@ -13,6 +14,8 @@ export default function FoodSharePage() {
     const formDataObject = getFormDataObject<FoodFormData>(data);
 
     await asyncTryCatch(saveFood(formDataObject));
+
+    revalidatePath('/food');
 
     // TODO: remove log
     console.log({ formDataObject });

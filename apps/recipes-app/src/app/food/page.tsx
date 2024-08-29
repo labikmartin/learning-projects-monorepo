@@ -15,6 +15,8 @@ import { Food, RemoveFoodButton } from '@libs/recipes-lib';
 
 import { deleteByFoodId, getFoodList } from '../../db/api';
 
+const bucket = process.env.NEXT_PUBLIC_BUCKET_URL;
+
 interface FoodItemProps extends Food {
   onDelete: (id: string) => Promise<void>;
 }
@@ -43,7 +45,7 @@ const FoodItem = ({
               fill
               alt={title}
               sizes="calc(100vw / 4)"
-              src={`/images/${image}`}
+              src={`${bucket}${image}`}
               style={{ objectFit: 'cover' }}
             />
           </Box>

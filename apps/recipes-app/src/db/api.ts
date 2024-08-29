@@ -1,11 +1,11 @@
 import { type Food, type FoodFormData } from '@libs/recipes-lib';
 import sql from 'better-sqlite3';
-import fs from 'node:fs';
 import slugify from 'slugify';
 import { v4 as uuidv4 } from 'uuid';
 import xss from 'xss';
 
-import { processImageFile } from './helpers/processImageFile';
+import { deleteImageFromS3 } from './helpers/deleteImageFromS3';
+import { uploadImageToS3 } from './helpers/uploadImageToS3';
 const db = sql('./src/db/food.db');
 
 export async function getFoodList() {
@@ -25,11 +25,8 @@ export async function getFoodBySlug(slug: string) {
 export async function deleteByFoodId(id: string) {
   const food = (await getFoodById(id)) as Food;
   const image = food.image;
-  const rootDir = process.cwd();
-  const imageDir = `${rootDir}/public/images`;
-  const filePath = `${imageDir}/${image}`;
 
-  fs.unlinkSync(filePath);
+  await deleteImageFromS3(image, 'test');
 
   const deleteFood = db.prepare('DELETE FROM food WHERE id = ?');
   return deleteFood.run(id);
@@ -73,7 +70,7 @@ export async function saveFood(data: FoodFormData) {
   const changes = insertStatement.changes;
 
   if (changes !== 0) {
-    await processImageFile(data.image, imageName, extension);
+    await uploadImageToS3(imageNameWithExtension, data.image, 'test');
   }
 
   return insertStatement;

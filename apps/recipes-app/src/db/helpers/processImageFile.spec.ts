@@ -5,10 +5,6 @@ jest.mock('node:fs', () => ({
 }));
 
 describe('processImageFile', () => {
-  beforeEach(() => {
-    jest.clearAllMocks();
-  });
-
   const imageDirectory = `${process.cwd()}/public/images`;
   const mockImage = {
     arrayBuffer: jest.fn().mockResolvedValue(Buffer.from('test image')),

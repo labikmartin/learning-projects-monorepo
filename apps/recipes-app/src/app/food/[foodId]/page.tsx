@@ -9,6 +9,8 @@ import { getFoodBySlug } from '../../../db/api';
 
 export type FoodDetailPageProps = NextPageProps<{ foodId: string }>;
 
+const bucket = process.env.NEXT_PUBLIC_BUCKET_URL;
+
 export default async function FoodDetailPage({ params }: FoodDetailPageProps) {
   const slug = params.foodId;
   const [food] = await asyncTryCatch(getFoodBySlug(slug) as Promise<Food>);
@@ -39,7 +41,7 @@ export default async function FoodDetailPage({ params }: FoodDetailPageProps) {
             fill
             alt={food.title}
             sizes="100vw"
-            src={`/images/${image}`}
+            src={`${bucket}${image}`}
             style={{ objectFit: 'cover' }}
           />
         </Box>

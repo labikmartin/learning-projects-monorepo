@@ -3,10 +3,6 @@ import { fireEvent, render, screen, waitFor } from '@testing-library/react';
 import { ImagePicker } from './ImagePicker';
 
 describe('ImagePicker', () => {
-  beforeEach(() => {
-    jest.clearAllMocks();
-  });
-
   test('should render successfully', () => {
     const setFiles = jest.fn();
 

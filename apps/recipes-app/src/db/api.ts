@@ -37,15 +37,15 @@ export async function saveFood(data: FoodFormData) {
 
   const slugCount = (
     db
-      .prepare('SELECT COUNT(*) FROM food WHERE slug = ?')
-      .get(slugIfiedTitle) as { 'COUNT(*)': number }
-  )['COUNT(*)'];
+      .prepare('SELECT COUNT(*) AS slugCount FROM food WHERE slug = ?')
+      .get(slugIfiedTitle) as { slugCount: number }
+  )['slugCount'];
 
   const lastRowId = (
-    db.prepare('SELECT MAX(id) FROM food').get() as {
-      'MAX(id)': number;
+    db.prepare('SELECT MAX(id) AS lastRowId FROM food').get() as {
+      lastRowId: number;
     }
-  )['MAX(id)'];
+  )['lastRowId'];
 
   const nextId = lastRowId + 1;
   const slug = slugCount === 0 ? slugIfiedTitle : `${slugIfiedTitle}-${nextId}`;

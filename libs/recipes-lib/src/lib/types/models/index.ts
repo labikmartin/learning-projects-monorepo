@@ -1,1 +1,1 @@
-export { type Food } from './Food';
+export { type Food, type FoodFormData } from './Food';

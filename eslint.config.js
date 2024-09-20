@@ -15,6 +15,7 @@ const compat = new FlatCompat({
 module.exports = [
   {
     files: ['**/*.ts', '**/*.tsx', '**/*.js', '**/*.jsx'],
+    ignores: ['**/next.config.js', '**/eslint.config.js', '**/jest.config.js'],
     plugins: {
       '@nx': nxEslintPlugin,
       '@typescript-eslint': typescriptPlugin,

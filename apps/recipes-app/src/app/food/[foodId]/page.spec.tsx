@@ -1,20 +1,18 @@
-import { render, screen, waitFor } from '@testing-library/react';
+import { notFound } from 'next/navigation';
+import { renderAsyncComponent } from '@libs/common/helpers';
+import { render, screen } from '@testing-library/react';
 
 import { getFoodBySlug } from '../../../db/api';
 
-import FoodDetailPage, { type FoodDetailPageProps } from './page';
+import FoodDetailPage from './page';
 
 jest.mock('../../../db/api', () => ({
   getFoodBySlug: jest.fn(),
 }));
 
-async function renderAsyncComponent(
-  Component: typeof FoodDetailPage,
-  props: FoodDetailPageProps,
-) {
-  let AsyncComponent = await Component(props);
-  render(AsyncComponent);
-}
+jest.mock('next/navigation', () => ({
+  notFound: jest.fn(),
+}));
 
 describe('FoodDetailPage', () => {
   it('should render successfully', async () => {
@@ -25,19 +23,21 @@ describe('FoodDetailPage', () => {
 
     (getFoodBySlug as jest.Mock).mockResolvedValueOnce(mockFood);
 
-    renderAsyncComponent(FoodDetailPage, { params: { foodId: 'foodId' } });
+    await renderAsyncComponent(render, FoodDetailPage, {
+      params: { foodId: 'foodId' },
+    });
 
-    await waitFor(() => expect(screen.getByText('Sample Food')).toBeTruthy());
+    expect(screen.getByText('Sample Food')).toBeTruthy();
     expect(screen.getByText('Sample instructions')).toBeTruthy();
   });
 
-  it('should render "Food not found" when food is not found', async () => {
+  it('should redirect to not found page', async () => {
     (getFoodBySlug as jest.Mock).mockResolvedValueOnce(null);
 
-    renderAsyncComponent(FoodDetailPage, { params: { foodId: 'foodId' } });
+    await renderAsyncComponent(render, FoodDetailPage, {
+      params: { foodId: 'foodId' },
+    });
 
-    await waitFor(() =>
-      expect(screen.getByText('Food not found')).toBeTruthy(),
-    );
+    expect(notFound).toHaveBeenCalled();
   });
 });

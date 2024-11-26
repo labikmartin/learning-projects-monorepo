@@ -14,3 +14,4 @@ tmp/
 .next
 out
 .env.local
+vite.config.*.timestamp*

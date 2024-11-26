@@ -36,6 +36,12 @@ a {
   text-decoration: inherit;
 }
 
+a:not(:focus-visible),
+button:not(:focus-visible) {
+  outline: none;
+  box-shadow: none !important;
+}
+
 pre {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
     Liberation Mono, Courier New, monospace;

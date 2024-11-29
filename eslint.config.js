@@ -23,7 +23,6 @@ module.exports = [
       'sort-destructure-keys': eslintPluginSortDestructureKeys,
     },
     rules: {
-      '@/sort-keys': 'warn',
       '@nx/enforce-module-boundaries': [
         'error',
         {
@@ -97,6 +96,7 @@ module.exports = [
           },
         },
       ],
+      '@typescript-eslint/consistent-type-imports': 'warn',
     },
   })),
   ...compat.config({ extends: ['plugin:@nx/javascript'] }).map((config) => ({

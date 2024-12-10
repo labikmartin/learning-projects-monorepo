@@ -36,14 +36,6 @@ module.exports = [
           enforceBuildableLibDependency: true,
         },
       ],
-      '@typescript-eslint/no-unused-vars': [
-        'warn',
-        {
-          argsIgnorePattern: '^_',
-          caughtErrorsIgnorePattern: '^_',
-          varsIgnorePattern: '^_',
-        },
-      ],
       'react-hooks/exhaustive-deps': 'off',
       'simple-import-sort/imports': [
         'warn',
@@ -94,6 +86,14 @@ module.exports = [
           default: {
             order: 'alphabetically',
           },
+        },
+      ],
+      '@typescript-eslint/no-unused-vars': [
+        'warn',
+        {
+          argsIgnorePattern: '^_',
+          caughtErrorsIgnorePattern: '^_',
+          varsIgnorePattern: '^_',
         },
       ],
       '@typescript-eslint/consistent-type-imports': 'warn',

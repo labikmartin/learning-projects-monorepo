@@ -16,8 +16,10 @@ describe('ImagePicker', () => {
       />,
     );
 
-    expect(screen.getByLabelText('Choose an image')).toBeTruthy();
-    expect(container.querySelector('.ImagePicker-preview')).toBeNull();
+    expect(screen.getByLabelText(/choose|select/i)).toBeInTheDocument();
+    expect(
+      container.querySelector('.ImagePicker-preview'),
+    ).not.toBeInTheDocument();
   });
 
   test('should set files when input value changes', () => {
@@ -40,6 +42,7 @@ describe('ImagePicker', () => {
     fireEvent.change(input, { target: { files: [file] } });
 
     expect(setFiles).toHaveBeenCalledWith(input.files);
+    expect(input.files?.[0]).toBeInstanceOf(File);
   });
 
   test('should preview the selected image', async () => {

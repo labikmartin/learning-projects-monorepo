@@ -13,6 +13,7 @@
     "lib": ["es2020", "dom", "dom.iterable"],
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
+    "types": ["node", "jest", "@testing-library/jest-dom"],
     "baseUrl": ".",
     "paths": {
       "@libs/common/constants": ["libs/common/constants/src/index.ts"],

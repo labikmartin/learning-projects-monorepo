@@ -1,6 +1,6 @@
 import { Grid, type GridProps } from '@chakra-ui/react';
 
-import { ContentContainerGridColumn } from './types';
+import { type ContentContainerGridColumn } from './types';
 
 interface ContentContainer extends GridProps {
   children: React.ReactNode;

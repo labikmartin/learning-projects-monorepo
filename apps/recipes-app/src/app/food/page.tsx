@@ -11,7 +11,8 @@ import {
   Text,
 } from '@chakra-ui/react';
 import { asyncTryCatch } from '@libs/common/helpers';
-import { Food, RemoveFoodButton } from '@libs/recipes-lib';
+import type { Food } from '@libs/recipes-lib';
+import { RemoveFoodButton } from '@libs/recipes-lib';
 
 import { deleteByFoodId, getFoodList } from '../../db/api';
 

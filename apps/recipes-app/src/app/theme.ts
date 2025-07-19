@@ -1,3 +1,5 @@
+'use client';
+
 import { extendTheme, type ThemeConfig } from '@chakra-ui/react';
 import { chakraColorModes } from '@libs/common/constants';
 

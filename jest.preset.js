@@ -1,7 +1,8 @@
 const nxPreset = require('@nx/jest/preset').default;
+const path = require('path');
 
 module.exports = {
   ...nxPreset,
   clearMocks: true,
-  setupFilesAfterEnv: ['../../tests.setup.js'], // root of monorepo from app
+  setupFilesAfterEnv: [path.join(__dirname, 'tests.setup.js')],
 };

@@ -35,5 +35,6 @@ export const { setLaunch, setLaunches } = launchSlice.actions;
 export const selectLaunch = (state: RootState) => state.launch.selectedLaunch;
 export const selectLaunches = (state: RootState) =>
   launchApi.endpoints.getLaunches.select()(state).data;
+export const selectedTest = (state: RootState) => state.launch.launches;
 
 export default launchSlice.reducer;

@@ -1,5 +1,6 @@
 import { useAppDispatch, useAppSelector } from '@app/store';
 import {
+  selectedTest,
   selectLaunches,
   setLaunches,
 } from '@features/launch/store/launch.slice';
@@ -21,7 +22,10 @@ function TestComponent() {
 }
 
 function TestComponent2() {
+  const fullState = useAppSelector((state) => state);
   const launches = useAppSelector(selectLaunches);
+  const launchesTest = useAppSelector(selectedTest);
+  console.log('fullState ', fullState);
 
   const dispatch = useAppDispatch();
 
@@ -37,6 +41,10 @@ function TestComponent2() {
   }
 
   console.log('TestComponent 22222 > ', launches);
+  console.log(
+    'TestComponent 22222 - setLaunches manually test > ',
+    launchesTest,
+  );
 
   return (
     <div>

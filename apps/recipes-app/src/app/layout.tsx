@@ -6,7 +6,6 @@ import {
 } from '@libs/recipes-lib';
 
 import { Providers } from './providers';
-import { theme } from './theme';
 
 import './global.css';
 
@@ -23,7 +22,6 @@ export default function RootLayout({
   return (
     <html lang="en" style={{ height: '100%' }}>
       <body style={{ height: '100%' }}>
-        <ColorModeScript initialColorMode={theme.config.initialColorMode} />
         <Providers>
           <ContentContainer
             minHeight="100%"
